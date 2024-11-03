@@ -1,0 +1,593 @@
+id_tiket;ref_tiket;tgl_tiket;status;subject;tim_agent;departemen;message_awal;message_akhir;agent;status
+1324119;20230101-17YHZ0;2023-01-01 18:13:47;resolved;penyusutan transacsional masalah;L2 - SAKTI Laporan;SAKTI - Pelaporan;<p>Yth. Bapak/Ibu narita mayasari</p><p>Terima kasih telah menggunakan layanan Helpdesk Terintegrasi HAI DJPb.</p><p>Untuk analisa lebih lanjut agar disampaikan :</p><p>1. Kode satker dan kode UAKPB</p><p>2. Kode BMN dan NUP yang bermasalah</p><p>3. Penjelasan permasalahan secara rinci atas setiap NUP tsb</p><p></p><p><br></p><p>berdasarkan hasil jwban hai djpb maka kami lanjutkan menjawab :</p><p><br></p><p>dari hasil pemantauan History atas <br></p><p>KD SATKER KANTOR PUSAT BADAN NASIONAL PENCARIAN DAN PERTOLONGAN (414370) <br></p><p><br></p><p><br></p><p>1. di aset kd barang 3070101999 alat kedokteran umum lainnya  nup 3, 5, 7 , muncul penyusutan trasactional senilai 568.890 dan 595.350 sehingga nilai buku yang seharus nya nol setelah di tranfer keluar, malah nibuk nya di histori menjadi 1.164.240. seharusnya nilai buku nya nol. <br></p><p>2. muncul aset kd barang 3070101999 alat kedokteran umum lainnya nup 9-14 (6 nup) dengan nilai buku 0 yang tebentuk sendiri oleh sakti , padahal kami tidak menginput itu harusnya nup tersebut tidak muncul</p><p>3. muncul aset kd barang 3070101999 alat kedokteran umum lainnya nup 15-22 (8 nup) dengan nilai 582.120 yang tebentuk sendiri oleh sakti , padahal kami tidak menginput itu, harusnya nup tersebut tidak muncul<br></p><p>mohon solusi. karena berdapak nilai aset yg masuk menjadi dobel, dan berbeda, histori terlampir</p><p> </p>;"<p>Yth. Bapak/Ibu NARITA<br>Terima kasih telah menggunakan layanan Helpdesk Terintegrasi HAI DJPb.<br><br>Atas case tsb maka :<br><br>1. Satker asal dan satker tujuan telah dibuka periode 12-2022<br>2. TRansaksi TKTM, koreksi nilai atas BMN 3070101999 NUP 5 dan 7 telah dihapus<br>3. Atas BMN NUP tsb agar dilakukan perekaman ulang sesuai dengan transaksi seharusnya<br><br>Sebelumnya agar dicek history BMN NUP berkenaan sebelum melakukan sebuah transaksi<br></p><p><br>Demikian
+ informasi ini kami sampaikan semoga dapat membantu. Apabila jawaban 
+kami belum memenuhi maksud pertanyaan, Bapak/Ibu disilakan untuk 
+menyampaikan pertanyaan lanjutan. Kemudian
+ sebagai bahan evaluasi atas kualitas layanan kami, mohon perkenan 
+Bapak/Ibu untuk dapat memberikan <b><i>feedback </i></b>atas penyampaian jawaban kami.
+ Terima kasih.</p><br><br>";(665) M Priandi;resolved
+1324992;20230102-PXDXEX;2023-01-02 10:31:06;resolved;Laporan FA Detail 16 Segmen COA Minus;L2 - SAKTI KOMITMEN;SAKTI - Komitmen;<p>Dengan hormat, </p><p>Satker Dinas Pekerjaan Umum Provinsi NTB (239237) menginformasikan adanya detail belanja barang yang melebihi pagu anggaran (Minus) pada laporan FA Detail 16 Segmen COA basis kas SP2D (terlampir/belanja yang minus telah diberi lingkaran), namun pada laporan FA detail 16 Segmen COA basis Akrual tidak minus. Sehubungan dengan hal tersebut, apakah pembebanan 16 segmen COA basis kas SP2D bisa melebihi pagu anggaran (minus)? dan dengan kondisi 16 segmen COA basis kas SP2D yang minus tersebut, laporan apa saja yang nantinya berpengaruh?</p><p><br></p><p>Demikian disampaikan, terimakasih atas bantuannya.</p>;"<p>Yth. Bapak/Ibu Maryanto<br>Terima kasih telah menggunakan layanan Helpdesk Terintegrasi HAI DJPb.<br>Mohon maaf atas ketidaknyamanannya dan waktu yang diperlukan untuk merespon tiket Bapak/Ibu;</p><p>Atas kendala tersebut,  Bapak/Ibu dapat melakukan proses revisi sehingga pagu terkait mencukupi dan tidak terjadi pagu minus;</p><p>Terkait dengan laporan yang terpengaruh, pagu minus tersebut hanya berpengaruh pada laporan FA dan laporan realisasi anggaran;<br></p><p><br>Demikian informasi ini kami sampaikan semoga dapat membantu. Terima kasih.</p><br>";(014) Faried Zamachsari;resolved
+1324993;20230102-NTO40A;2023-01-02 10:31:15;resolved;Deviasi RPD SPM DAU;L2 - SAKTI Laksana;SAKTI - Pembayaran;"<div><span style=""font-family:Calibri, Arial, Helvetica, sans-serif;font-size:12pt;color:rgb(0,0,0);background-color:rgb(255,255,255);"">Sesuai ND Direktur Pengelolaan Kas Negara Nomor : 1868/PB.3/2022
+ disebutkan&nbsp;Pemberian dispensasi <span style=""background-color:rgb(255,255,255);display:inline;"">
+RPD&nbsp;</span>penyaluran DAU oleh Kepala KPPN dilakukan sesuai dengan Peraturan Menteri Keuangan Nomor&nbsp;<span style=""background-color:rgb(255,255,255);display:inline;"">197/PMK.05/2017, atas hal tsb disampaikan
+ hal-hal sbb :</span></span></div>
+<div>
+<ol>
+<li style=""font-size:12pt;font-family:Calibri, Arial, Helvetica, sans-serif;color:rgb(0,0,0);"">
+<span><span style=""font-family:Calibri, Arial, Helvetica, sans-serif;font-size:12pt;color:rgb(0,0,0);background-color:rgb(255,255,255);""><span style=""background-color:rgb(255,255,255);display:inline;"">SPM
+ sebagai penyalur dana transfer telah mengajuan 4 SPM dan sudah terbit sp2d</span></span></span>
+<div><span><span style=""font-family:Calibri, Arial, Helvetica, sans-serif;font-size:12pt;color:rgb(0,0,0);background-color:rgb(255,255,255);""><span style=""background-color:rgb(255,255,255);display:inline;"">[attach:image:106820YQRWMJSPPY1068191946A2EDC:image.png]&nbsp;</span><span style=""font-size:18.3333px;font-family:sans-serif;background-color:rgb(255,255,255);"">P</span>&nbsp;2.
+ KPPN sebagai penyalur dana transfer sudah mengajuan surat dispensasi pada tgl 30 Des 2022 (saat pengajuan), namun 4 SPM dimaksud tidak muncul pada menu sheduled payment date pada SAKTI BUN, baik Tahun 2022 maupun 2023 sehingg KPPN sebagai BUN tidak dapat memproses
+ perubahan tgl jatuh tempo menjadi tgl 2 Januari 2023.</span></span></div>
+<div style=""font-size:12pt;font-family:Calibri, Arial, Helvetica, sans-serif;color:rgb(0,0,0);"">
+<span><span style=""font-family:Calibri, Arial, Helvetica, sans-serif;font-size:12pt;color:rgb(0,0,0);background-color:rgb(255,255,255);"">[attach:image:106820AKYGCPXAQK10681919571F9C0:image.png]<br />
+</span></span></div>
+<div style=""font-size:12pt;font-family:Calibri, Arial, Helvetica, sans-serif;color:rgb(0,0,0);"">
+<span><span style=""font-family:Calibri, Arial, Helvetica, sans-serif;font-size:12pt;color:rgb(0,0,0);background-color:rgb(255,255,255);"">3. atas hal tersebut, saat ini terjadi deviasi RPD pada omSPAN pada tgl 2 Januari 2023</span></span></div>
+<div style=""font-size:12pt;font-family:Calibri, Arial, Helvetica, sans-serif;color:rgb(0,0,0);"">
+<span><span style=""font-family:Calibri, Arial, Helvetica, sans-serif;font-size:12pt;color:rgb(0,0,0);background-color:rgb(255,255,255);"">[attach:image:106820TZKKSDWKWG106819196EB947D:image.png]<br />
+</span></span></div>
+</li></ol>
+<div><span style=""font-family:Calibri, Arial, Helvetica, sans-serif;font-size:12pt;color:rgb(0,0,0);""><span style=""font-family:Calibri, Arial, Helvetica, sans-serif;font-size:12pt;color:rgb(0,0,0);background-color:rgb(255,255,255);"">Demikian
+ disampaikan,, mohon petunjuk lebih lanjut ?</span></span></div>
+<ol>
+<li style=""display:block;font-size:12pt;font-family:Calibri, Arial, Helvetica, sans-serif;color:rgb(0,0,0);"">
+<span><span style=""font-family:Calibri, Arial, Helvetica, sans-serif;font-size:12pt;color:rgb(0,0,0);background-color:rgb(255,255,255);""><br />
+</span></span>
+<div style=""font-size:18.3333px;font-family:sans-serif;""><span><span style=""font-family:Calibri, Arial, Helvetica, sans-serif;font-size:12pt;color:rgb(0,0,0);background-color:rgb(255,255,255);""><span style=""background-color:rgb(255,255,255);font-size:18.3333px;font-family:sans-serif;"">Menteri
+ Keuangan Nomor 197/PMK./201</span></span><br />
+</span></div>
+</li></ol>
+</div>";"<p>Yth. Bapak/Ibu Rizki Aprianto<br>Terima kasih telah menggunakan layanan Helpdesk Terintegrasi HAI DJPb.<br><br>Mohon maaf atas ketidaknyamanan dan keterlambatan kami dalam merespon tiket. Silahkan Bapak/Ibu dapat mengecek laporan deviasi kembali  secara berkala. </p><p><br></p><p>Apabila masih terjadi deviasi, Bapak/Ibu dapat membalas tiket ini  kembali dengan  melampirkan Laporan Deviasi per Satker dari OMSPAN.<br></p><p><br>Demikian
+ informasi ini kami sampaikan semoga dapat membantu. Apabila jawaban 
+kami belum memenuhi maksud pertanyaan, Bapak/Ibu disilakan untuk 
+menyampaikan pertanyaan lanjutan. Kemudian
+ sebagai bahan evaluasi atas kualitas layanan kami, mohon perkenan 
+Bapak/Ibu untuk dapat memberikan <b><i>feedback </i></b>atas penyampaian jawaban kami.
+ Terima kasih.</p><br><br>";(727) Faiz Al Azhar;resolved
+1325108;20230102-3W7U70;2023-01-02 10:52:08;resolved;selisih;L2 - SAKTI Laporan;SAKTI - Pelaporan;<p>Selamat pagi bapak/ibu, kami satker Dittopad mohon bantuan nya pak,</p><p>terkait selisih Rp 2 , di Akumulasi Penyusutan Aset tetap ,</p><p>mohon ijin kami lampirkan Permasalahan nya ,terimakasih</p>;"<p>Yth. Bapak/Ibu Ardinsyah Putra<br>Terima kasih telah menggunakan layanan Helpdesk Terintegrasi HAI DJPb.<br><br>LAporan berkenaan agar dicek kembali<br><br>[attach:image:111084GXNTRHTHTR111083521CED54E:upload.png]<br></p><p><br>Demikian
+ informasi ini kami sampaikan semoga dapat membantu. Apabila jawaban 
+kami belum memenuhi maksud pertanyaan, Bapak/Ibu disilakan untuk 
+menyampaikan pertanyaan lanjutan. Kemudian
+ sebagai bahan evaluasi atas kualitas layanan kami, mohon perkenan 
+Bapak/Ibu untuk dapat memberikan <b><i>feedback </i></b>atas penyampaian jawaban kami.
+ Terima kasih.</p><br><br>";(665) M Priandi;resolved
+1325401;20230102-TZGAO9;2023-01-02 11:51:45;resolved;Permohonan Penyesuaian Saldo Accrual dengan Saldo Kas di SAKTI;L2 - SAKTI KOMITMEN;SAKTI - Komitmen;<p>Selamat pagi, kami ingin menyampaikan bahwa terdapat ketidak sesuaian antara saldo akhir pada laporan FA Accrual dengan saldo pada FA Kas. Mohon bantuan untuk mengatasi permasalahan tersebut. Bersama ini kami lampirkan dokumen pendukung. <br></p>;<p>Yth. Bapak/Ibu DINAS BMBK LAMPUNG<br>Terima kasih telah menggunakan layanan Helpdesk Terintegrasi HAI DJPb.<br></p><p></p><p>Sebelumnya kami mohon maaf atas kendala dan lamanya kami dalam membalas email Saudara.</p><p>Apabila kendala masih terjadi, mohon dapat membalas kembali email ini dengan dilampiri data dukung permasalahan terkini.</p><br><p>Demikian kami sampaikan, mohon maaf atas ketidaknyamananya. Terima kasih.</p><br>;(014) Faried Zamachsari;resolved
+1325523;20230102-WTNXRW;2023-01-02 12:30:04;resolved;Jumlah barang yg berbeda antara akun Satker dan Anak Satker;L2 - SAKTI Laporan;SAKTI - Pelaporan;<p>Selamat siang. Saya Ali, Operator Aset Tetap dari Satker 427768, Kemenko PMK. </p><p>Di Satker kami, ada akun anak Satker untuk bagian Perpustakaan. Berdasarkan cetak laporan yang dilakukan, terdapat perbedaan jumlah BMN Buku Lainnya (6.01.01.01.999) antara akun Satker dan Anak Satker. Akun Satker memiliki 8.490 unit sedangkan Akun Anak Satker 8.417 unit. Kenapa bisa ada perbedaan?<br>Selain itu, saat akan melakukan input buku baru hasil pembelian, NUP yang terakhir adalah 73, padahal di laporan barang ada 8rb unit.</p><p><br></p><p>Sedikit info: Kami ada kesalahan administrasi pada TA 2021. Dilakukan pembelian buku baru, namun tidak ada koordinasi oleh petugas perpusnya. Baru ketahuan saat mendekati semester 2 tahun 2022 (oleh BPK tidak menjadi temuan). Sehingga buku 2021 tersebut diinput di menu Saldo awal. Buku baru tersebut berjumlah 391 unit. <br>Mohon bantuan atas perbedaan data yang dimaksud. Terima kasih.</p>;<p>Yth. Bapak/Ibu Ali Haidir<br>Terima kasih telah menggunakan layanan Helpdesk Terintegrasi HAI DJPb.<br><br></p><p><br></p><br><br>;(665) M Priandi;resolved
+1325925;20230102-R2XUJ8;2023-01-02 14:23:45;resolved;Ada Selisih Saldo Lainnya Menurut UAKPA;L2 - SAKTI Laporan;SAKTI - Pelaporan;<p>Selamat Siang Saya dari satker 682956 ingin menanyakan perihal LPJ Bendahara Pengeluaran..<br></p><p>Saya Mau tanya Pak... Proses Hibah sudah selesai sampai pencatatan SPHL nya.. saya juga sudah input setoran pengembalian UP dan juga sudah mencatat SP2D GU Nihil.. </p><p>Tetapi pada saat mencetak LPJ/ Hasil pemeriksaan Kas ada minus di Kas lainnya menurut UAKPA  sebesar nilai Hibah (50.000.000) <br><br>Apa ada proses yang terlewatkan yang belum di input atau bagaimana Pak?</p>;<p>Yth. Bapak/Ibu <br>Terima kasih telah menggunakan layanan Helpdesk Terintegrasi HAI DJPb.<br><br></p><p>Baik sesuai batas akhir penyampaian LK pada 28 Februari 2023 semestinya permaslaahn ini juga sudah selesai di level penyusunan LK di tingkat KL, Dan untuk angka unaudited sudah ditutup pada 28 Februari 2023  maka jika masih ada kendala bisa diinfokan kembali</p><p><br>Demikian informasi ini kami sampaikan semoga dapat membantu. Apabila jawaban kami belum memenuhi maksud pertanyaan, Bapak/Ibu disilakan untuk menyampaikan pertanyaan lanjutan. Kemudian sebagai bahan evaluasi atas kualitas layanan kami, mohon perkenan Bapak/Ibu untuk dapat memberikan <b><i>feedback </i></b>atas penyampaian jawaban kami. Terima kasih.</p><br>;(022) Hafez Aditya;resolved
+1326293;20230102-75B1S8;2023-01-02 15:53:18;resolved;Modul Komitmen SAKTI : Permohonan void BAST Hibah;L2 - SAKTI KOMITMEN;SAKTI - Komitmen;"<div style=""font-family:Calibri, Arial, Helvetica, sans-serif;font-size:12pt;color:rgb(0,0,0);background-color:rgb(255,255,255);"">
+Yth. PIC Modul Komitmen SAKTI</div>
+<div style=""font-family:Calibri, Arial, Helvetica, sans-serif;font-size:12pt;color:rgb(0,0,0);background-color:rgb(255,255,255);"">
+<br />
+</div>
+<div><span style=""font-size:12pt;font-family:'Times New Roman', serif;"">Pada
+ Satker Polres Rembang (<span style=""font-size:12pt;font-family:'Times New Roman', serif;"">643522)
+ t</span>elah terjadi </span><span style=""font-size:12pt;font-family:'Times New Roman', serif;"">kesalahan pencatatan
+ tanggal BAST Hibah langsung barang berharga nomor S-5418/WPB.14/2022 tanggal 19-12-2022 seharusnya tanggal 21-12-2021 sehingga tidak dapat dilanjutkan untuk pembuatan SPP MPHL-BJS TAYL. Namun&nbsp;<span style=""font-size:12pt;font-family:'Times New Roman', serif;"">BAST
+</span><span style=""font-size:12pt;font-family:'Times New Roman', serif;"">Hibah tersebut</span><span style=""font-size:12pt;font-family:'Times New Roman', serif;"">
+</span><span style=""font-size:12pt;font-family:'Times New Roman', serif;"">terlanjur dilakukan pendetilan
+ pada modul&nbsp;</span><span style=""font-size:12pt;font-family:'Times New Roman', serif;"">Aset Tetap dengan rincian
+ pendetilan sbb :</span></span><br />
+</div>
+<div>
+<table width=""584"" style=""width:438.3pt;border:none;"">
+<tbody>
+<tr style=""height:24.75pt;"">
+<td width=""111"" valign=""top"" style=""width:83.6pt;border:solid 1pt;padding:0cm 5.4pt 0cm 5.4pt;height:24.75pt;"">
+<p align=""center"" style=""font-size:11pt;font-family:Calibri, 'sans-serif';"">
+<span style=""font-size:12pt;font-family:'Times New Roman', serif;"">Kode Barang</span></p><p>&nbsp;</p>
+</td>
+<td width=""59"" valign=""top"" style=""width:44.55pt;border:solid 1pt;padding:0cm 5.4pt 0cm 5.4pt;height:24.75pt;"">
+<p align=""center"" style=""font-size:11pt;font-family:Calibri, 'sans-serif';"">
+<span style=""font-size:12pt;font-family:'Times New Roman', serif;"">NUP</span></p><p>&nbsp;</p>
+</td>
+<td width=""123"" valign=""top"" style=""width:92.2pt;border:solid 1pt;padding:0cm 5.4pt 0cm 5.4pt;height:24.75pt;"">
+<p align=""center"" style=""font-size:11pt;font-family:Calibri, 'sans-serif';"">
+<span style=""font-size:12pt;font-family:'Times New Roman', serif;"">Nama Barang</span></p><p>&nbsp;</p>
+</td>
+<td width=""67"" valign=""top"" style=""width:50.05pt;border:solid 1pt;padding:0cm 5.4pt 0cm 5.4pt;height:24.75pt;"">
+<p align=""center"" style=""font-size:11pt;font-family:Calibri, 'sans-serif';"">
+<span style=""font-size:12pt;font-family:'Times New Roman', serif;"">Jumlah</span></p><p>&nbsp;</p>
+</td>
+<td width=""120"" valign=""top"" style=""width:90.35pt;border:solid 1pt;padding:0cm 5.4pt 0cm 5.4pt;height:24.75pt;"">
+<p class=""MsoNormal"" style=""margin:0;; align="" center="""">
+<span style=""font-size:12pt;font-family:'Times New Roman', serif;"">Nilai Total</span></p><p>&nbsp;</p>
+</td>
+</tr>
+<tr style=""height:20.85pt;"">
+<td width=""111"" valign=""top"" style=""width:83.6pt;border:solid 1pt;padding:0cm 5.4pt 0cm 5.4pt;height:20.85pt;"">
+<p style=""font-size:11pt;font-family:Calibri, 'sans-serif';"">
+<span style=""font-size:12pt;font-family:'Times New Roman', serif;"">2010104001</span></p><p>&nbsp;</p>
+</td>
+<td width=""59"" valign=""top"" style=""width:44.55pt;padding:0cm 5.4pt 0cm 5.4pt;height:20.85pt;"">
+<p align=""center"" style=""font-size:11pt;font-family:Calibri, 'sans-serif';"">
+<span style=""font-size:12pt;font-family:'Times New Roman', serif;"">24</span></p><p>&nbsp;</p>
+</td>
+<td width=""123"" valign=""top"" style=""width:92.2pt;padding:0cm 5.4pt 0cm 5.4pt;height:20.85pt;"">
+<p align=""center"" style=""font-size:11pt;font-family:Calibri, 'sans-serif';"">
+<span style=""font-size:12pt;font-family:'Times New Roman', serif;"">Tanah bangunan Pemerintah</span></p><p>&nbsp;</p>
+</td>
+<td width=""67"" valign=""top"" style=""width:50.05pt;padding:0cm 5.4pt 0cm 5.4pt;height:20.85pt;"">
+<p align=""center"" style=""font-size:11pt;font-family:Calibri, 'sans-serif';"">
+<span style=""font-size:12pt;font-family:'Times New Roman', serif;"">1</span></p><p>&nbsp;</p>
+</td>
+<td width=""120"" valign=""top"" style=""width:90.35pt;padding:0cm 5.4pt 0cm 5.4pt;height:20.85pt;"">
+<p class=""MsoNormal"" style=""margin:0;; align="" right="""">
+<span style=""font-size:12pt;font-family:'Times New Roman', serif;"">944.000.000</span></p><p>&nbsp;</p>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div><span style=""font-family:'Times New Roman', serif;font-size:12pt;"">Atas keterlanjuran pendetilan di modul aset tetap telah dilakukan penghapusan aset tetap tersebut melalui menu : Aset Tetap - Transaksi BMN - Penghapusan - Koreksi
+ Pencatatan.</span><br />
+</div>
+<div><span style=""font-size:12pt;font-family:'Times New Roman', serif;""><span style=""font-size:12pt;font-family:'Times New Roman', serif;"">Selanjutnya
+ telah dilakukan jurnal manual GLP pada tanggal 29 Des 2022, sebagai berikut :</span></span></div>
+<div><span style=""font-size:12pt;font-family:'Times New Roman', serif;""><span style=""font-size:12pt;font-family:'Times New Roman', serif;"">(D)
+ 218211 Hibah langsung yang belum disahkan&nbsp; &nbsp; &nbsp; : Rp944.000.000,-</span></span></div>
+<div><span style=""font-size:12pt;font-family:'Times New Roman', serif;""><span style=""font-size:12pt;font-family:'Times New Roman', serif;"">(K)
+ 391116 Koreksi Nilai Aset Tetap non Revaluasi&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; : Rp944.000.000,-<br />
+</span></span></div>
+<div><span style=""font-size:12pt;font-family:'Times New Roman', serif;""><span style=""font-size:12pt;font-family:'Times New Roman', serif;""><br />
+</span></span></div>
+<div><span style=""font-size:12pt;font-family:'Times New Roman', serif;""><span style=""font-size:12pt;font-family:'Times New Roman', serif;"">Sehubungan
+ dengan hal tersebut diatas, dengan ini dimohon bantuannya untuk melakukan void BAST Hibah pada Modul Komitmen SAKTI sbb :</span></span></div>
+<div><span style=""font-size:12pt;font-family:'Times New Roman', serif;""><span style=""font-size:12pt;font-family:'Times New Roman', serif;"">
+</span></span><p style=""font-size:11pt;font-family:Calibri, 'sans-serif';"">
+</p>
+<p style=""font-size:11pt;font-family:Calibri, 'sans-serif';"">
+<span style=""font-size:12pt;font-family:'Times New Roman', serif;"">Kode Satker<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>:</span><span style=""font-size:12pt;font-family:'Times New Roman', serif;""> 643522&nbsp;</span></p>
+<p style=""font-size:11pt;font-family:Calibri, 'sans-serif';"">
+<span style=""font-size:12pt;font-family:'Times New Roman', serif;"">Nomor
+</span><span style=""font-size:12pt;font-family:'Times New Roman', serif;"">BAST
+</span><span style=""font-size:12pt;font-family:'Times New Roman', serif;""><span>&nbsp;&nbsp;&nbsp;</span>:<span>&nbsp;
+</span></span><span style=""font-size:12pt;font-family:'Times New Roman', serif;"">S-5418/WPB.14/2022&nbsp;</span></p>
+<p style=""font-size:11pt;font-family:Calibri, 'sans-serif';"">
+<span style=""font-size:12pt;font-family:'Times New Roman', serif;"">Tanggal<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>:<span>&nbsp; </span></span><span style=""font-size:12pt;font-family:'Times New Roman', serif;"">19 Desember 2022&nbsp;</span></p>
+<p style=""font-size:11pt;font-family:Calibri, 'sans-serif';"">
+<span style=""font-size:12pt;font-family:'Times New Roman', serif;"">Nilai<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>:&nbsp; Rp</span><span style=""font-size:12pt;font-family:'Times New Roman', serif;"">.944.000.000&nbsp;</span></p>
+<p style=""font-size:11pt;font-family:Calibri, 'sans-serif';"">
+<span style=""font-size:12pt;font-family:'Times New Roman', serif;"">Kode Coa<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>:&nbsp;&nbsp;</span><span style=""font-size:10pt;font-family:'Times New Roman', serif;"">643522.097.000000.0600100.0000000.L000000000.00000.2.0313.0.000000.000000<a>&nbsp;</a></span></p>
+<p style=""font-size:11pt;font-family:Calibri, 'sans-serif';"">
+<span style=""font-size:10pt;font-family:'Times New Roman', serif;""><a><br />
+</a></span></p>
+<p style=""font-size:11pt;font-family:Calibri, 'sans-serif';"">
+<span style=""font-size:10pt;font-family:'Times New Roman', serif;""><a>Terlampir kami sampaikan SPTJM void BAST Hibah dan cetakan Jurnal manual pada modul GLP.</a></span></p>
+<p style=""font-size:11pt;font-family:Calibri, 'sans-serif';"">
+<span style=""font-size:10pt;font-family:'Times New Roman', serif;""><a><br />
+</a></span></p>
+<p style=""font-size:11pt;font-family:Calibri, 'sans-serif';"">
+<span style=""font-size:10pt;font-family:'Times New Roman', serif;""><a>Atas Bantuannya kami ucapkan terima kasih.</a></span></p>
+<p style=""font-size:11pt;font-family:Calibri, 'sans-serif';"">
+<span><span style=""font-size:10pt;font-family:'Times New Roman', serif;"">&nbsp;</span></span></p>
+<p style=""font-size:11pt;font-family:Calibri, 'sans-serif';"">
+</p><br />
+<br />
+</div>
+<div><span style=""font-size:12pt;font-family:'Times New Roman', serif;""><br />
+</span></div>";"<p>Yth. Bapak/Ibu Sri Agustina<br>Terima kasih telah menggunakan layanan Helpdesk Terintegrasi HAI DJPb.<br>Mohon maaf atas ketidaknyamanannya dan waktu yang diperlukan untuk merespon tiket Bapak/Ibu;<br>Atas kendala tersebut, dapat kami sampaikan beberapa hal:</p><p>-Atas BAST Hibah langsung barang, tidak terjadi pembebanan pada FA sehingga tidak perlu dilakukan proses void BAST;</p><p>-Dalam hal BAST terkait sudah dilakukan perekaman pendetailan pada modul aset, maka untuk melakukan penyesuaian cukup dilakukan jurnal manual atas transaksi terkait;</p><p>-Untuk detail untuk jurnal yang digunakan, Bapak/Ibu dapat membuat tiket baru ditujukan kepada tim aplikasi SAKTI modul GL dan Pelaporan;<br></p><p><br>Demikian informasi ini kami sampaikan semoga dapat membantu. Terima kasih.</p><br>";(014) Faried Zamachsari;resolved
+1326449;20230102-YHITV0;2023-01-02 16:33:49;resolved;Tidak bisa simpan Capaian Output Desember;L2 - SAKTI KOMITMEN;SAKTI - Komitmen;<p>Selamat Sore,</p><p>Satker Polres Jember 644243 melakukan perekaman data capaian output bulan Desember, namun saat simpan terdapat validasi isian data tidak valid, Progres Capaian RO Kumulatif melebihi 100% ( Screenshot terlampir). Progres Capaian RO Kumulatif sebelumnya sebesar 87.85%, sehingga satker merekam penambahan sebesar 12.15% namun masih terkena validasi melebihi 100%. Mohon solusi terkait kendala tersebut. Terima kasih</p>;"<p>Yth. Bapak/Ibu CSO Jember<br>Terima kasih telah menggunakan layanan Helpdesk Terintegrasi HAI DJPb.<br></p><p>Mohon maaf atas ketidaknyamanannya dan waktu yang diperlukan untuk merespon tiket Bapak/ibu;<br>Atas kendala tersebut, telah dilakukan penyesuaian aplikasi oleh tim pengembang;</p><p>Bapak/Ibu dapat melakukan pengecekan kembali atas kesesuaian data dimaksud dan melakukan pengiriman ulang agar data pada monevpa dapat terupdate;</p><p><br>Demikian informasi ini kami sampaikan semoga dapat membantu. Terima kasih.</p><br><br>";(014) Faried Zamachsari;resolved
+1326457;20230102-VLF099;2023-01-02 16:36:40;resolved;Kendala Transfer Keluar dan Transfer Masuk;L2 - SAKTI Laporan;SAKTI - Pelaporan;<p>Mohon Ijin Kami dari Satker Puspalad, Terdapat kendala pada proses Transfer Keluar dan Transfer Masuk antara Satker Puspalad (344516) dengan Satker Paldam Jaya (344460)<br><br>TK Paldam Jaya  senilai : Rp. 489.105.514 dan Rp (489.105.514)<br><br>TM Puspalad senilai : Rp. 416.757.706 dan Rp (416.757.706)<br> <br>Nama Akun : Aset tetap yang tidak digunakan dalam operasi pemerintahan dan Akumulasi Penyusutan Aset tetap yang tidak digunakan dalam operasi pemerintahan.<br><br>Selisih kurang TM : Rp. 72.347.808 dan Rp (72.347.808)<br><br>Pada Subsatker Gupusjat I Optronik (012.22.0159.344516.004KD) dan Gupusjat II Optronik (012.22.0159.344516.005KD) Puspalad telah melaksanakan TM dari Satker Paldam Jaya namun masih terdapat selisih, pada menu transfer masuk online sudah tidak ada barang yang di TM dari Paldam Jaya.<br><br>Mohon petunjuk penyelesaianya. Terimakasih.<br></p>;"<p>Yth. Bapak/Ibu Renaldi Putra Sidiq<br>Terima kasih telah menggunakan layanan Helpdesk Terintegrasi HAI DJPb.<br><br>Apakah case TKTM yang belum muncul sudah terselesaikan?<br><br>Apabila belum selesai agar disampaikan screenshoot yang menunjukkan selisih TK TM berkenaan<br></p><p><br>Demikian
+ informasi ini kami sampaikan semoga dapat membantu. Apabila jawaban 
+kami belum memenuhi maksud pertanyaan, Bapak/Ibu disilakan untuk 
+menyampaikan pertanyaan lanjutan. Kemudian
+ sebagai bahan evaluasi atas kualitas layanan kami, mohon perkenan 
+Bapak/Ibu untuk dapat memberikan <b><i>feedback </i></b>atas penyampaian jawaban kami.
+ Terima kasih.</p><br><br>";(665) M Priandi;resolved
+1326800;20230102-9AUSR9;2023-01-02 23:38:42;resolved;Perbedaan Realisasi antara Laporan FA detail berbasis kas dengan realisasi di OMSPAN;L2 - SAKTI KOMITMEN;SAKTI - Komitmen;"<p><b>HAI-230154643 Perbedaan Realisasi antara Laporan FA detail berbasis kas dengan realisasi di OMSPAN</b><br />Unit Penanya: RUMAH DETENSI IMIGRASI PONTIANAK (664650)<br /><br /><b>Rudenim 30-12-2022 15:46:44</b><br /><br />Kode Satker : 664650
+<br />Nama Satker : Rumah Detensi Imigrasi Pontianak
+<br />
+<br />Permasalahan :
+<br />- Terdapat perbedaan realisasi antara Laporan FA Detail berbasis kas dengan omspan
+<br />- Perbedaan tersebut juga mengakibatkan adanya minus sisa pagu pada Laporan FA Detail berbasis kas
+<br />Permohonan :
+<br />Satker Rudenim Pontianak dengan kode satker 664650 memohon untuk dinormalisasikan pada Laporan FA Detail berbasis kas agar sesuai dengan data di OMSPAN dan pada Laporan FA Detail berbasis akrual sehingga tidak ada pagu sisa yang minus serta perbedaan realisasi pada Laporan FA detail berbasis kas. Hal ini dikarenakan terdapat pengembalian belanja berupa gaji April 2022 an. Ramlan Hadiansyah yang masih dianggap terbayar pada Laporan Realisasi SP2D (Laporan FA Detail berbasis kas) padahal sudah dilakukan setoran pengembalian. 
+<br />Terima kasih<br /><br /> Lampiran: <a href=""https://spanint.kemenkeu.go.id/spanint/hai/downloader/index.php/downloads/Lampiran_tiket_REF_T1230154643_04263aea573e4f07.zip/daduk-664650-fiks.zip"">daduk-664650-fiks.zip</a><br /><br /><b>CSO 3 Pontianak 31-12-2022 10:30:08</b><br />Yth. Bapak/Ibu
+<br />
+<br />Mohon konfirmasi apakah pada aplikasi SAKTI sudah melakukan perekaman SPP Pengembalian Belanja (Jenis SPP 611) ?<br /><br /><b>CSO 3 Pontianak 31-12-2022 10:32:23</b><br />Apabila belum melakukan perekaman SPP pengembalian belanja silakan rekam SPP pengembalian belanja pada menu pembayaran&gt;ruh&gt;catat/ubah SPP, pilih jenis SPP 611. Terima kasih<br /><br /><b>Rudenim 31-12-2022 15:05:20</b><br />Kami sudah melakukan perekaman SPP pengembalian belanja, sebagaimana data dukung yang kami lampirkan<br /><br /> Lampiran: <a href=""https://spanint.kemenkeu.go.id/spanint/hai/downloader/index.php/downloads/Lampiran_tiket_REF_N1231150518_04263afed3e555ba.jpg/IMG-20221231-WA0020.jpg"">IMG-20221231-WA0020.jpg</a><br /><br /><b>CSO 3 Pontianak 02-01-2023 23:38:39</b><br />Tiket Anda dieskalasi ke HAI DJPb<br /><br /></p>";"<p>Yth. Bapak/Ibu Rudenim<br>Terima kasih telah menggunakan layanan Helpdesk Terintegrasi HAI DJPb.<br>Mohon maaf atas ketidaknyamanannya dan waktu yang diperlukan untuk merespon tiket Bapak/Ibu;</p><p>Atas kendala tersebut, dapat kami sampaikan bahwa untuk laporan FA detail 16 segmen, pengembalian belanja hanya muncul pada laporan berbasis akrual dan tidak muncul pada laporan berbasis kas/sp2d;</p><p>Atas hal tersebut, akan terdapat selisih sebesar pengembalian belanja pada kedua laporan tersebut. Atas selisih tersebut dapat diabaikan.<br></p><p><br>Demikian informasi ini kami sampaikan semoga dapat membantu. Terima kasih.</p><br>";(014) Faried Zamachsari;resolved
+1327241;20230103-JUJ88S;2023-01-03 09:28:08;resolved;Eror pada saat penginputan Referensi Capaian Output;L2 - SAKTI KOMITMEN;SAKTI - Komitmen;"<div><span style=""font-size:1.125rem;"">Yth. Admin.. Izin menyampaikan kendala dalam penginputan capaian output Desember 2022.</span></div><p><span style=""font-size:1.125rem;"">Satker kami sudah mengirimkan data capaian output pada 2 Januari 2023 kemarin, namun terdapat salah satu RO yang statusnya tidak terkonfirmasi dan tidak dapat kami perbaiki inputannya dikarenakan Referensi Capaian tidak dapat dipilih sehingga tidak dapat disimpan.</span></p><p><span style=""font-size:1.125rem;"">RO ini merupakan RO yang anggarannya sudah diblokir karena fungsinya sudah dipindahkan ke deputi lain/anggaran dialihkan ke RO lain</span></p><p></p>";"<p>Yth. Bapak/Ibu Dhanu Sutomo<br>Terima kasih telah menggunakan layanan Helpdesk Terintegrasi HAI DJPb.<br></p><p>Mohon maaf atas ketidaknyamanannya dan waktu yang diperlukan untuk merespon tiket Bapak/ibu;<br>Atas kendala tersebut, telah dilakukan penyesuaian aplikasi oleh tim pengembang;</p><p>Bapak/Ibu dapat melakukan pengecekan kembali atas kesesuaian data dimaksud dan melakukan pengiriman ulang agar data pada monevpa dapat terupdate;</p><p><br>Demikian informasi ini kami sampaikan semoga dapat membantu. Terima kasih.</p><br>";(014) Faried Zamachsari;resolved
+1327551;20230103-05V55Y;2023-01-03 10:21:37;resolved;Permohonan Normalisasi Pagu pada Om Span TA 2022 Satker Deputi PHP (664958);L2 - SAKTI Laporan;SAKTI - Pelaporan;<p>Selamat pagi, Saya dari Satker Deputi Bidang Perlindungan Hak Perempuan (664958) selaku staf Bendahara.<br>Kami menemukan ketidaksesuaian pagu antara pagu Om Span TA 2022 dengan Pagu Sakti TA 2022 sehingga pada Om Span ditemukan pagu minus pada akun DE.2800.QDB.524111 Sehingga pada Realisasi Belanja muncul pagu minus dengan keterangan ZZZ.<br><br>Kami mohon bantuan Bapak/Ibu untuk membantu kami dalam melakukan pemulihan pagu /Normalisasi Pagu pada akun tersebut.<br><br></p>;<p></p><p>Yth. Bapak/Ibu <br>Terima kasih telah menggunakan layanan Helpdesk Terintegrasi HAI DJPb.</p><p><br></p><p>Baik seiring dengan selesainya penyusunan LK dan penyampaiakn LK per tanggal 28 februari semestinya permalsahan ini sudah tidak terjadi dan sudah diselesaikan</p><p><br>Demikian informasi ini kami sampaikan semoga dapat membantu. Apabila jawaban kami belum memenuhi maksud pertanyaan, Bapak/Ibu disilakan untuk menyampaikan pertanyaan lanjutan. Kemudian sebagai bahan evaluasi atas kualitas layanan kami, mohon perkenan Bapak/Ibu untuk dapat memberikan <b><i>feedback </i></b>atas penyampaian jawaban kami. Terima kasih.</p><br>;(022) Hafez Aditya;resolved
+1327862;20230103-SGE0H8;2023-01-03 11:17:59;resolved;Perbaikan LPJ Benma periode 01 2022 dst;L2 - SAKTI BENDAHARA;SAKTI - Bendahara;<p>Terdapat sisa kas di rekening benma tahun 2021 sebesar 205.085.800. sisa saldo tersebut sudah kami setorkan ke negara pada tanggal 03 januari 2022, namun di neraca masih di bunyikan kas di bendahara penerimaan. Mohon ijin untuk bantuannya membuka buku dari periode 01 2022</p>;<p></p><p>Yth. Bapak/Ibu Dwi</p><p><br>Terima kasih telah menggunakan layanan Helpdesk Terintegrasi HAI DJPb.<br><br></p><p>Saldo TA 2021 atau 2022? Jika 2022 yang belum disetor dapat dilakukan penyetoran di TA 2023. Penyetoran dapat melalui menu setoran bedahara penerimaan. </p><p><br>Demikian informasi ini kami sampaikan semoga dapat membantu. Apabila jawaban kami belum memenuhi maksud pertanyaan, Bapak/Ibu disilakan untuk menyampaikan pertanyaan lanjutan. Kemudian sebagai bahan evaluasi atas kualitas layanan kami, mohon perkenan Bapak/Ibu untuk dapat memberikan <b><i>feedback </i></b>atas penyampaian jawaban kami. Terima kasih.</p><br>;(014) Faried Zamachsari;resolved
+1328016;20230103-TAMN71;2023-01-03 11:49:35;resolved;BAST Final dan penyelesaian sisa BG;L2 - SAKTI KOMITMEN;SAKTI - Komitmen;"<p>Mohon izin bertanya, <span style=""font-size:1.125rem;"">posisinya kontrak yg berBG tidak yg sudah cair 100% ternyata hanya berhak 98% atas uangnya tapi tetap  prestasi tuntas.</span></p><p>Atas hal ini apakah tetap dibuat BAST Final dgn nilai tidak full dan memunculkan nilai sisa atas BG itu?</p><p>Terus dilakukan setoran saja lewat MPN kah sebagaimana mekanisme kelebihan bayar, dan pakai akun apa itu &#128591;</p><p>.</p><p>Atau memakai mekansime per8, pasal 26 ayat 2? (Tapi bahasanya disana wanprestasi)</p>";"<p>Yth. Bapak/Ibu CSO KPPN Bangko<br>Terima kasih telah menggunakan layanan Helpdesk Terintegrasi HAI DJPb.<br>Mohon maaf atas ketidaknyamanannya dan waktu yang diperlukan untuk merespon tiket Bapak/Ibu;</p><p>Atas kendala tersebut, Bapak/Ibu tetap dapat melakukan perekaman BAST final sebesar 100%;</p><p>Terkait dengan kelebihan bayar, Bapak/Ibu dapat melakukan mekanisme pengembalian belanja TAYL. Atas hal tersebut, maka diperlukan koreksi nilai atas aset/persediaan yang terbentuk;<br></p><p><br>Demikian informasi ini kami sampaikan semoga dapat membantu. Terima kasih.</p><br>";(014) Faried Zamachsari;resolved
+1328026;20230103-T2Q5CH;2023-01-03 11:51:16;resolved;pagu minus pada laporan pada VA aplikasi sakti mohon untuk menormalkan kembali;L2 - SAKTI KOMITMEN;SAKTI - Komitmen;"<div class=""plaintext-email"">kepada yth<br />
+Bapak/Ibu<br />
+<br />
+melalui email hai.djpb@kemenkeu.go.id<br />
+kami sampaikan error pagu minus pada laporan pada VA aplikasi sakti<br />
+mohon untuk menormalkan kembali<br />
+<br />
+Kami ucapakan terima kasih atas kerjasamanya</div>";"<p>Yth. Bapak/Ibu Wini0007<br>Terima kasih telah menggunakan layanan Helpdesk Terintegrasi HAI DJPb.<br>Mohon maaf atas ketidaknyamanannya dan waktu yang diperlukan untuk merespon tiket Bapak/Ibu;</p><p>Atas kendala tersebut, dapat kami sampaikan bahwa nilai minus pada kolom realisasi - Periode ini terbentuk atas penghapusan transaksi yang direkam pada periode sebelumnya;</p><p>Nilai minus tersebut menunjukkan adanya pemulihan pagu atas transaksi yang direkam pada periode sebelumnya;</p><p>Silahakn cek kembali kesesuaian nilai sisa pagu atas COA terkait;</p><p><br>Demikian informasi ini kami sampaikan semoga dapat membantu. Terima kasih.</p><br>";(014) Faried Zamachsari;resolved
+1328053;20230103-0TZENT;2023-01-03 11:56:35;resolved;agu minus pada laporan pada VA aplikasi sakti mohon untuk menormalkan kembali satker 029018;L2 - SAKTI KOMITMEN;SAKTI - Komitmen;"<div class=""plaintext-email"">kepada yth<br />
+Bapak/Ibu<br />
+<br />
+melalui email hai.djpb@kemenkeu.go.id<br />
+kami sampaikan error pagu minus pada laporan pada VA aplikasi sakti<br />
+mohon untuk menormalkan kembali satker 029018<br />
+<br />
+Kami ucapakan terima kasih atas kerjasamanya</div>";"<p>Yth. Bapak/Ibu Warn0016<br>Terima kasih telah menggunakan layanan Helpdesk Terintegrasi HAI DJPb.<br>Mohon maaf atas ketidaknyamanannya dan waktu yang diperlukan untuk merespon tiket Bapak/Ibu;</p><p>Atas kendala tersebut, dapat kami sampaikan bahwa nilai minus pada kolom realisasi - Periode lalu terbentuk atas penghapusan transaksi yang direkam pada periode sebelumnya;</p><p>Nilai minus tersebut menunjukkan adanya pemulihan pagu atas transaksi yang direkam pada periode sebelumnya;</p><p>Silahakn cek kembali kesesuaian nilai sisa pagu atas COA terkait;</p><p><br>Demikian informasi ini kami sampaikan semoga dapat membantu. Terima kasih.</p><br>";(014) Faried Zamachsari;resolved
+1328571;20230103-UNIPUE;2023-01-03 14:23:56;resolved;Kesalahan Pemilihan Tahun Saat Perekaman Pengajaun Penegsahan MPHL-BJS;L2 - SAKTI KOMITMEN;SAKTI - Komitmen;"Selamat Siang,<div>Satker kami Kantor Kejaksaan Negeri Muna () telah melakukan perekaman pengajuan pengesahan MPHL-BJS pada SAKTI namun salah memilih tahun, harusnya tahun 2022 namun jadi 2023. Berikut kami lampirkan data dukung berupa dokumen pendukung MPHL-BJS dan screenshot pada aplikasi SAKTI. Mohon solusinya.&nbsp;</div>";<p>Yth. Bapak/Ibu Wa Tina<br>Terima kasih telah menggunakan layanan Helpdesk Terintegrasi HAI DJPb.<br></p><p>Sebelumnya kami mohon maaf atas kendala dan lamanya kami dalam membalas email Saudara.</p><p>Apabila kendala masih terjadi, mohon dapat membalas kembali email ini dengan dilampiri data dukung permasalahan terkini.</p><p><br></p><p>Demikian kami sampaikan, mohon maaf atas ketidaknyamananya. Terima kasih.</p><br>;(014) Faried Zamachsari;resolved
+1328585;20230103-TJREVE;2023-01-03 14:26:55;resolved;perbedaan realisasi di monsakti dan sakti;L2 - SAKTI KOMITMEN;SAKTI - Komitmen;<p>terdapat perbedaan realisasi di monsakti (realisasi Rp.798.139.964) sedangkan di sakti (realisasi Rp.823.139.964) terdapat selisih 25.000.000 (senilai UP).</p><p>mohon bantuan dan petunjuknya</p>;"<p>Yth. Bapak/Ibu yopiyatul<br>Terima kasih telah menggunakan layanan Helpdesk Terintegrasi HAI DJPb.<br>Mohon maaf atas ketidaknyamanannya dan waktu yang diperlukan untuk merespon tiket Bapak/Ibu;<br>Atas kendala tersebut, dapat kami sampaikan bahwa nilai minus pada kolom realisasi - periode ini terbentuk dikarenakan adanya penghapusan transaksi yang direkam pada periode sebelumnya;</p><p>Atas nilai minus sebesar 10juta tersebut, merupakan pagu yang kembali atas penghapusan transaksi nomor 00001/PB/309034/2022 senilai 10juta;</p><p>Silahkan cek kembali kesesuaian sisa pagu pada COA terkait;<br></p><p><br>Demikian informasi ini kami sampaikan semoga dapat membantu. Terima kasih.</p><br>";(014) Faried Zamachsari;resolved
+1328783;20230103-8E5CDJ;2023-01-03 15:06:59;resolved;Setoran sisa kelebihan pembayaran Bank Garansi;L2 - SAKTI KOMITMEN;SAKTI - Komitmen;<p>atas kontrak yg ber Bank Garansi telah selesai dengan prestasi, namun ada kelebihan pembayaran, atas kelebihan tersebut, apakah disetor lewat simponi, dan dengan akun apa itu? DI Sakti tak apa tetap direkam bast final dengan SPNP ada nominalnya?</p><p><br></p>;"<p>Yth. Bapak/Ibu CSO KPPN Bangko<br>Terima kasih telah menggunakan layanan Helpdesk Terintegrasi HAI DJPb.<br>Mohon maaf atas ketidaknyamanannya dan waktu yang diperlukan untuk merepson tiket Bapak/Ibu;</p><p>Atas kendala tersebut, Bapak/Ibu dapat melakukan penyetoran kelebihan pembayaran tersebut sebagai pengembalian belanja TAYL pada TA 2023;</p><p>Konsekuensi atas tindakan tersebut adalah adanya kelebihan pengakuan pada modul aset (apabila menghasilkan aset) sehingga diperlukan adanya koreksi nilai aset;<br></p><p><br>Demikian informasi ini kami sampaikan semoga dapat membantu. Terima kasih.</p><br>";(014) Faried Zamachsari;resolved
+1328836;20230103-91WX6Y;2023-01-03 15:19:14;resolved;perubahan;L2 - SAKTI Laporan;SAKTI - Pelaporan;<p>Selamat sore, izin bertanya.</p><p>Di tahun 2022 terdapat belanja modal perpanjangan landasan pesawat terbang dengan batas akhir kontrak tanggal 31 desember 2022.</p><p>di dalam pekerjaan jalan tersebut juga terdapat penambahan lampu visual pesawat terbang yang termasuk di dalam nilai kontrak perpanjangan tersebut.<br>bagaimana cara memecah pencatatan aset tersebut?</p>;"<p>Yth. Bapak/Ibu FAUZAN IFANI<br>Terima kasih telah menggunakan layanan Helpdesk Terintegrasi HAI DJPb.<br><br>Apabila telah dilakukan transaksi pengembangan nilai pada landasan pesawat, maka :<br>1. Nilai pengembangan landasan pesawat dapat dilakukan Koreksi Perubahan Nilai Berkurang<br>2. Lalu untuk mencatat lampu dapat dicatat melalui menu Perolehan L:ainnya<br>3. OPR GLP membuat jurnal manual D 491429 K 391116<br></p><p><br>Demikian
+ informasi ini kami sampaikan semoga dapat membantu. Apabila jawaban 
+kami belum memenuhi maksud pertanyaan, Bapak/Ibu disilakan untuk 
+menyampaikan pertanyaan lanjutan. Kemudian
+ sebagai bahan evaluasi atas kualitas layanan kami, mohon perkenan 
+Bapak/Ibu untuk dapat memberikan <b><i>feedback </i></b>atas penyampaian jawaban kami.
+ Terima kasih.</p><br><br>";(665) M Priandi;resolved
+1329085;20230103-XPPTSY;2023-01-03 16:19:38;resolved;Update data MonSakti;L2 - SAKTI BENDAHARA;SAKTI - Bendahara;<p>terjadi selisih data pada mon sakti tentang penggembalian uang persediaan untuk pencatatannya sudah sesuai dengann juknis pencatatat. mohon bantuannya untuk normalisasi data tersebut. dokumen terlampir</p>;"<div>Alhamdulillah permasalahan saya sudah terselesaikan&#128591;&#127996;, Terimakasih, kami merasa sangat terbantu.</div>
+    <br />
+    <div>
+      <div>Pada tanggal Sab, 28 Jan 2023 13.21, hai DJPb &lt;<a href=""mailto:hai.djpb@kemenkeu.go.id"">hai.djpb@kemenkeu.go.id</a>&gt; menulis:<br /></div>
+      <blockquote><u></u>
+
+
+
+
+<div style=""padding:0 20px;color:#242424;font-family:Calibri, Helvetica, Arial, sans-serif;font-weight:normal;line-height:125%;font-size:14px;background-color:#f7f7f7;width:100%;"">
+
+<div style=""font-family:Calibri, Helvetica, Arial, sans-serif;line-height:125%;color:#242424;font-size:14px;"">
+
+
+&nbsp; </div>
+
+<div>
+<p class=""MsoNormal"" style=""margin:0;""><span style=""font-family:Tahoma, 'sans-serif';color:#1f497d;"">&nbsp;</span></p>
+<p class=""MsoNormal"" style=""margin:0;""><span style=""font-family:Tahoma, 'sans-serif';color:#1f497d;"">&nbsp;</span></p>
+<div>
+<p class=""MsoNormal"" style=""margin:0;"">&nbsp;</p>
+</div>
+<p class=""MsoNormal"" style=""margin:0;""><span style=""font-family:Tahoma, 'sans-serif';color:#1f497d;"">&nbsp;</span></p>
+<p class=""MsoNormal"" style=""margin:0;""><span style=""font-size:12pt;font-family:'Times New Roman', serif;"">&nbsp;</span></p>
+<div class=""MsoNormal"" style=""margin:0;""><span style=""font-size:12pt;font-family:'Times New Roman', serif;"">
+
+</span></div>
+<p class=""MsoNormal"" style=""margin:0;""><span style=""font-size:7.5pt;font-family:Verdana, 'sans-serif';color:#808080;"">PENTING
+</span></p>
+<p class=""MsoNormal"" style=""margin:0;"" align=""justify""><span style=""font-size:7.5pt;font-family:Verdana, 'sans-serif';color:#808080;"">""Sesuai dengan Keputusan Menteri Keuangan Nomor 942/KMK.01/2019 tentang Pengelolaan Keamanan Informasi di Lingkungan Kementerian
+ Keuangan bahwa Unit TIK eselon I yang memiliki sistem nama domain masing-masing menambahkan pernyataan disclaimer pada setiap Surat Elektronik untuk mencegah tuntutan hukum atas penggunaan Surat Elektronik , maka email ini (termasuk seluruh lampirannya bila
+ ada) hanya ditujukan kepada penerima sebagaimana dimaksud pada tujuan email ini. Email ini dapat berisi informasi atau hal-hal yang secara hukum bersifat rahasia. Jika terdapat kesalahan pengiriman (Anda bukan penerima yang dituju), maka Anda tidak diperkenankan
+ untuk memanfaatkan, menyebarkan, mendistribusikan, atau menggandakan email ini beserta seluruh lampirannya. Mohon kerjasamanya untuk segera menghubungi Pusintek di alamat email yang tercantum di atas serta menghapus e-mail ini beserta seluruh lampirannya.
+ Semua pendapat yang ada dalam e-mail ini merupakan pendapat pribadi dari pengirim yang bersangkutan dan tidak serta merta mencerminkan pandangan Kementerian Keuangan"".</span></p>
+</div>
+</div>
+
+</blockquote>
+    </div>";(014) Faried Zamachsari;resolved
+1329125;20230103-LVC3D6;2023-01-03 16:29:03;resolved;perbedaan detail FA akrual dan FA basis kas SP2d;L2 - SAKTI KOMITMEN;SAKTI - Komitmen;<p>ijin bertanya,  kenapa laporan FA detail akrual dan FA detail Sp2d kami berbeda sedangkan kita sudah cek dari awal tidak ada spp lain yg terrekam atau disetujui</p>;"<p>Yth. Bapak/Ibu SARI GANDA SITUMORANG<br>Terima kasih telah menggunakan layanan Helpdesk Terintegrasi HAI DJPb.<br><br></p><p></p><p>Mohon maaf atas ketidaknyamananya, terkait hal ini dapat kami informasikan :</p><br><p>1.
+ Perbedaan atas realisasi pada Laporan FA Detail (16 Segmen) Basis Kas 
+dan Akrual mungkin terjadi karena perbedaan titik pengakuan realisasi;</p><br><p>2.
+ Misalnya atas akun 532111 direkam dua BAST 01 (senilai Rp 1 jt) dan 02.
+ BAST 01 (senilai Rp 2jt) sudah dibayarkan menjadi SP2D dan BAST 02 
+masih belum digunakan pada perekaman SPP;</p><br><p>3. Pada Laporan FA Detail (16 Segmen) Basis Akrual terbebani senilai 3jt atas transaksi :</p><p>BAST 01 dan BAST 02;</p><br><p>4.Pada Laporan FA Detail (16 Segmen) Basis Kas hanya terbebani senilai 1jt atas transaksi :</p><p>BAST 01 (karena sudah SP2D)</p>BAST 02 (belum membenai Basis Kas karena belum ada dana yang keluar/belum SP2D);<p><br></p><p>5. Satker dapat  melakukan cetak Laporan FA Detail 16 segmen Basis Akrual level ""<b>Transaksi</b>""
+ terlebih dahulu untuk melihat transaksi apa saja yang membebani FA tersebut.<br></p><p><br>Demikian
+ informasi ini kami sampaikan semoga dapat membantu. Apabila jawaban 
+kami belum memenuhi maksud pertanyaan, Bapak/Ibu disilakan untuk 
+menyampaikan pertanyaan lanjutan. Kemudian
+ sebagai bahan evaluasi atas kualitas layanan kami, mohon perkenan 
+Bapak/Ibu untuk dapat memberikan <b><i>feedback </i></b>atas penyampaian jawaban kami.
+ Terima kasih.</p>";(513) Rafly R Harahap;resolved
+1329340;20230103-R65FLG;2023-01-03 18:00:52;resolved;Realisasi keuangan beda pada Capaian Output dan Detail Fa.;L2 - SAKTI KOMITMEN;SAKTI - Komitmen;<p>Mohon diberi petunjuk untuk pengisian capaian output bulan desember.</p>;"<p>Yth. Bapak/Ibu nuraini chassandra<br>Terima kasih telah menggunakan layanan Helpdesk Terintegrasi HAI DJPb.<br></p><p>Mohon maaf atas ketidaknyamanannya dan waktu yang diperlukan untuk merespon tiket Bapak/ibu;<br>Atas kendala tersebut, telah dilakukan penyesuaian aplikasi oleh tim pengembang;</p><p>Bapak/Ibu dapat melakukan pengecekan kembali atas kesesuaian data dimaksud dan melakukan pengiriman ulang agar data pada monevpa dapat terupdate;</p><p><br>Demikian informasi ini kami sampaikan semoga dapat membantu. Terima kasih.</p><br>";(014) Faried Zamachsari;resolved
+1329598;20230104-5GML6M;2023-01-04 06:31:32;resolved;hasil download FA 16 Segmen;L2 - SAKTI Laksana;SAKTI - Pembayaran;"<div><span style=""font-family:Calibri, Arial, Helvetica, sans-serif;font-size:12pt;color:rgb(0,0,0);background-color:rgb(255,255,255);"">Yth. Dit SITP DJPB melalui layanan Sapa Anggaran</span></div>
+<div><span style=""font-family:Calibri, Arial, Helvetica, sans-serif;font-size:12pt;color:rgb(0,0,0);background-color:rgb(255,255,255);""><br />
+</span></div>
+<div style=""font-family:Calibri, Arial, Helvetica, sans-serif;font-size:12pt;color:rgb(0,0,0);background-color:rgb(255,255,255);"">
+Mohon informasi terkait hal-hal sebagai berikut:<br />
+</div>
+<div style=""font-family:Calibri, Arial, Helvetica, sans-serif;font-size:12pt;color:rgb(0,0,0);background-color:rgb(255,255,255);"">
+<ol>
+<li><span>Hasil Download FA 16 segmen, dijadikan oleh satker sebagai dasar atau panduan untuk merekam SPBY<br />
+</span></li><li><span>Detil item/kegiatan pada satker sangat banyak sehingga hasil download FA 16 segmen sangat banyak lebih dari 150 halaman</span></li><li><span>Akan tetapi hasil download tersebut tidak lengkap, dimana header yg berisi judul kegiatan tidak muncul di hasil download. Sehingga satker mengalami kesulitan
+ saat ngerekam SPBY. Karena tidak tahu kegiatannya apa. Yang tampil hanya nomor itemnya saja, Sedangkan judul kegiatannya tidak ada<br />
+</span></li></ol>
+<div><span>Mohon bantuan terkait kendala satker dimaksuf. Atas bantuannya diucapkan terima kasih.</span></div>
+</div>
+<div>
+<div style=""font-family:Calibri, Arial, Helvetica, sans-serif;font-size:12pt;color:rgb(0,0,0);"">
+<br />
+</div>
+<div>
+<div>
+<div style=""font-family:Calibri, Arial, Helvetica, sans-serif;"">
+<span style=""font-size:7.5pt;font-family:Verdana, 'sans-serif';color:#808080;"">""<span style=""font-family:Calibri, Helvetica, Arial, sans-serif;background-color:rgb(255,255,255);"">Sesuai dengan Keputusan Menteri Keuangan Nomor 942/KMK.01/2019
+ tentang Pengelolaan Keamanan Informasi di Lingkungan Kementerian Keuangan bahwa Unit TIK eselon I yang memiliki sistem nama domain masing-masing menambahkan pernyataan disclaimer pada setiap Surat Elektronik untuk mencegah tuntutan hukum atas penggunaan Surat
+ Elektronik , maka email ini (termasuk seluruh lampirannya bila ada) hanya ditujukan kepada penerima sebagaimana dimaksud pada tujuan email ini. Email ini dapat berisi informasi atau hal-hal yang secara hukum bersifat rahasia. Jika terdapat kesalahan pengiriman
+ (Anda bukan penerima yang dituju), maka Anda tidak diperkenankan untuk memanfaatkan, menyebarkan, mendistribusikan, atau menggandakan email ini beserta seluruh lampirannya. Mohon kerjasamanya untuk segera menghubungi Pusintek di alamat email yang tercantum
+ di atas serta menghapus e-mail ini beserta seluruh lampirannya. Semua pendapat yang ada dalam e-mail ini merupakan pendapat pribadi dari pengirim yang bersangkutan dan tidak serta merta mencerminkan pandangan Kementerian Keuangan</span>"".</span></div>
+</div>
+</div>
+</div>";"<p>Yth. Bapak/Ibu Ardi Artopo<br>Terima kasih telah menggunakan layanan Helpdesk Terintegrasi HAI DJPb.<br><br>Header item disarankan masuk dalam sub komponen sehingga bisa masuk dalam laporan FA Detail, karena laporan FA Detail hanya menampilkan data 16 segmen coa<br></p><p><br>Demikian
+ informasi ini kami sampaikan semoga dapat membantu. Apabila jawaban 
+kami belum memenuhi maksud pertanyaan, Bapak/Ibu disilakan untuk 
+menyampaikan pertanyaan lanjutan. Kemudian
+ sebagai bahan evaluasi atas kualitas layanan kami, mohon perkenan 
+Bapak/Ibu untuk dapat memberikan <b><i>feedback </i></b>atas penyampaian jawaban kami.
+ Terima kasih.</p>";(014) Faried Zamachsari;resolved
+1329770;20230104-PV302M;2023-01-04 08:19:18;resolved;Piutang tidak Settle;L2 - SAKTI BENDAHARA;SAKTI - Bendahara;<p>Satker kami terdapat penyetoran pembayaran piutang melalui SSBP Non SBS, SSBP Non SBS ini sudah kami rekam di modul bendahara menggunakan menu upload. Pada saat akan di settle di modul piutang NTPN penyetoran kami tidak muncul</p>;"<p>Yth. Bapak/Ibu I Wayan Krisna Widsatrya<br>Terima kasih telah menggunakan layanan Helpdesk Terintegrasi HAI DJPb.<br><br></p><p>Mohon maaf atas ketidaknyamanannya,permasalahan Anda telah diteruskan ke timteknis dengan ID 20230202-9JT2XV<br>Mohon kesediaannya menunggu.<br>Demikian
+ informasi ini kami sampaikan semoga dapat membantu. Apabila jawaban 
+kami belum memenuhi maksud pertanyaan, Bapak/Ibu disilakan untuk 
+menyampaikan pertanyaan lanjutan. Kemudian
+ sebagai bahan evaluasi atas kualitas layanan kami, mohon perkenan 
+Bapak/Ibu untuk dapat memberikan <b><i>feedback </i></b>atas penyampaian jawaban kami.
+ Terima kasih.</p><br><br>";(174) Ramaditya Atma Widigda;resolved
+1329791;20230104-MDQ5ZW;2023-01-04 08:24:37;resolved;Reklasifikasi Masuk dari Persediaan ke Aset;L2 - SAKTI Laporan;SAKTI - Pelaporan;<p>Selamat sore Bapak/Ibu. </p><p>Mohon ijin bertanya mengenai reklasifikasi masuk dari persediaan ke aset.</p><p>Ketika kami melakukan reklasifikasi keluar dari persediaan anak satker (kode 006) data persediaan tersebut masuk ke aset UAPKPB juga (kode 006). Sebagai informasi anak satker yang kami miliki di modul aset tetap hanya kode 001. Saat akan proses terima aset di menu reklas aset dari persediaan keluar notifikasi harus melakukan migrasi terlebih dahulu. Mohon bantuannya Bapak/Ibu.</p>;"<p></p><p>Yth. Bapak/Ibu<br>Terima kasih telah menggunakan layanan Helpdesk Terintegrasi HAI DJPb.</p><p>Karena
+ sudah melewati batas waktu penyampaian LK, dan permaslahan di 
+masing-masing KL sudah diselesaikan ketika pendampingan penyusunan LK, 
+maka jika masih ada kendala mohon bisa diinfokan kembali</p><p><br>Demikian
+ informasi ini kami sampaikan semoga dapat membantu. Apabila jawaban 
+kami belum memenuhi maksud pertanyaan, Bapak/Ibu disilakan untuk 
+menyampaikan pertanyaan lanjutan. Kemudian sebagai bahan evaluasi atas 
+kualitas layanan kami, mohon perkenan Bapak/Ibu untuk dapat memberikan<b><i>feedback</i></b>atas penyampaian jawaban kami. Terima kasih.</p><br>";(665) M Priandi;resolved
+1329908;20230104-K9XR25;2023-01-04 09:00:00;resolved;pembatalan penghapusan;L2 - SAKTI Laporan;SAKTI - Pelaporan;<p>terdapat perbaikan terhadap aset tetap yang semula diusulkan untuk penghapusan dan akan digunakan kembali </p><p>menu Usulan Penghapusan BMN/Pencatatan Pembatalan Barang Yang Akan Dihapuskan tidak muncul data aset yang akan digunakan kembali tsb</p>;"<p></p><p>Yth. Bapak/Ibu<br>Terima kasih telah menggunakan layanan Helpdesk Terintegrasi HAI DJPb.</p><p>Karena
+ sudah melewati batas waktu penyampaian LK, dan permaslahan di 
+masing-masing KL sudah diselesaikan ketika pendampingan penyusunan LK, 
+maka jika masih ada kendala mohon bisa diinfokan kembali</p><p><br>Demikian
+ informasi ini kami sampaikan semoga dapat membantu. Apabila jawaban 
+kami belum memenuhi maksud pertanyaan, Bapak/Ibu disilakan untuk 
+menyampaikan pertanyaan lanjutan. Kemudian sebagai bahan evaluasi atas 
+kualitas layanan kami, mohon perkenan Bapak/Ibu untuk dapat memberikan<b><i>feedback</i></b>atas penyampaian jawaban kami. Terima kasih.</p><br>";(665) M Priandi;resolved
+1330016;20230104-KKWD9K;2023-01-04 09:23:54;resolved;Capaian Output Data Tidak Masuk Ke Om Spant;L2 - SAKTI KOMITMEN;SAKTI - Komitmen;<p>Berikut Kami sampaikan Permasalahan terkait Capaian Output Bulan November 2022.</p><ol><li>Kami sudah Mengirimkan capaian output Bulan November seperti pada Screnshot dan PDF terlampir</li><li>Setelah Kami cek di Kertas kerja, Kiriman dari sakti belum masuk ke spant</li><li>Mohon untuk di buka periode November 2022, untuk upload kembali capaian output  ke spant</li></ol>;"<p>Yth. Bapak/Ibu Kemenag Kab Malang 299065<br>Terima kasih telah menggunakan layanan Helpdesk Terintegrasi HAI DJPb.<br>Mohon maaf atas ketidaknyamanannya dan waktu yang diperlukan untuk merespon tiket Bapak/Ibu;</p><p>Atas kendala tersebut, Bapak/Ibu dapat melakukan pengecekan kembali data capaian output periode November 2022 atas satker 299068 pada aplikasi monevPA/omspan;<br></p><p><br>Demikian informasi ini kami sampaikan semoga dapat membantu. Terima kasih.</p><br>";(014) Faried Zamachsari;resolved
+1330410;20230104-LTGRJF;2023-01-04 10:45:45;resolved;permasalahan terkait capaian output di Omspan;L2 - SAKTI KOMITMEN;SAKTI - Komitmen;<p>kami dari satker 677506,,, utk capaian output bln desember 2022 kok blm berubah ya... padahal sdh sy entry dan kirim di tgl 02 januari 2023, berikut kami kirimkan monitoring kiriman nya, mohon info dan terima kasih</p>;"<p>Yth. Bapak/Ibu fadli ansori<br>Terima kasih telah menggunakan layanan Helpdesk Terintegrasi HAI DJPb.<br><br></p><p>Mohon maaf atas ketidaknyamananya, terkait hal ini dapat kami informasikan  berdasarkan pengawasan kami, seluruh RO  telah terkonfirmasi. Apabila satker masih mengalami kendala terkait ini, dapat menginformasikan kembali kepada kami.<br></p><p><br></p><p>[attach:image:111158CMZASTCAPM111157669B162F9:upload.png]<br></p><p><br>Demikian
+ informasi ini kami sampaikan semoga dapat membantu. Apabila jawaban 
+kami belum memenuhi maksud pertanyaan, Bapak/Ibu disilakan untuk 
+menyampaikan pertanyaan lanjutan. Kemudian
+ sebagai bahan evaluasi atas kualitas layanan kami, mohon perkenan 
+Bapak/Ibu untuk dapat memberikan <b><i>feedback </i></b>atas penyampaian jawaban kami.
+ Terima kasih.</p>";(513) Rafly R Harahap;resolved
+1330427;20230104-8GTCJ3;2023-01-04 10:50:53;resolved;Transaksi di Modul Komitmen Tidak Muncul di Modul Persediaan;L2 - SAKTI Laporan;SAKTI - Pelaporan;<p>Mengapa ada satu data  transaksi di Modul Komitmen (sudah sp2d) tidak muncul di Modul Persediaan (ketika akan didetailkan). </p><p>Mohon pencerahnnya... terima kasih. </p>;"<p>Yth. Bapak/Ibu Sudarman<br>Terima kasih telah menggunakan layanan Helpdesk Terintegrasi HAI DJPb.<br><br>Baik Bapak/Ibu, atas permasalahan tidak memilih rincian barang pada saat pembuatan BAST, untuk bararang tersebut bisa didetailkan dengan menu perolehan lainnya<br></p><p><br>Demikian
+ informasi ini kami sampaikan semoga dapat membantu. Apabila jawaban 
+kami belum memenuhi maksud pertanyaan, Bapak/Ibu disilakan untuk 
+menyampaikan pertanyaan lanjutan. Kemudian
+ sebagai bahan evaluasi atas kualitas layanan kami, mohon perkenan 
+Bapak/Ibu untuk dapat memberikan <b><i>feedback </i></b>atas penyampaian jawaban kami.
+ Terima kasih.</p><br><br>";(706) Ahmad Rifai;resolved
+1330582;20230104-IVS0GN;2023-01-04 11:23:40;resolved;Summary Database;L2 - SAKTI Laporan;SAKTI - Pelaporan;<p>Yth. Admin</p><p>Ijin bertanya terkait modul aset tetap, dengan kronologi sebagai berikut:</p><p>1. Saya sudah melakukan summary database untuk periode Desember 2022 sebelum penutup bukuan periode 2022-12, sewaktu saya mencoba download laporan BMN data semester 1 nilainya masih sama dengan data semester 2 yang saya download.</p><p>2. Kemudian saya login di tahun 2021 untuk download laporan per 31 desember 2021 untuk membandingkan nilainya</p><p>3. Setelah itu saya mencoba untuk melakukan summary database untuk periode unaudited 2022, namun saya kurang teliti bahwa masih login di tahun 2021, pada saat saya login lagi di tahun 2022, saya tidak bisa melakukan summary untuk periode 2022-13 karena diminta harus urut yang mana terakhir saya summary periode 2021-13. </p><p>Terkait hal tersebut, apakah saya harus membuka periode pembukuan dari januari-desember 2022? karena saya coba untuk summary periode 2023-01 pun tidak bisa. Mohon bantuannya. Terima kasih</p>;<p>Yth. Bapak/Ibu Rifqy Nadia<br>Terima kasih telah menggunakan layanan Helpdesk Terintegrasi HAI DJPb.<br><br><br><br></p>;(069) Benitriadi Meidy Moniung;resolved
+1330705;20230104-IVCS5I;2023-01-04 11:49:30;resolved;Terdapat Akun Belanja Barang yang Masih Harus Dibayar Padahal SP2D Sudah Terbit;L2 - SAKTI KOMITMEN;SAKTI - Komitmen;<p>Selamat siang, saya Ela dari satker 690501. Mohon izin menanyakan terkait adanya akun 212112 (Belanja Barang yang Masih Harus Dibayar) pada neraca percobaan senilai Rp203jutaan, padahal transaksi tersebut sudah terbit SP2D dan sudah dicatat oleh bendahara, sudah dikeluarkan dari rekening bendahara, dan bendahara juga sudah menyampaikan LPJ . <br></p><p><br></p><p>Sya mencari info ke tim pengelola anggaran, mereka bilang sepertinya itu transaksi nyangkut, jd itu adalah SPM LS perjadin.Ketika proses validasi SPP lalu gagal validasi. Ketika SPPnya dihapus pagunya tidak kembali,  hingga akhirnya mereka meminta agar pagunya dibalikin lg ke SITP, tp sepertinya itu SPP yg gagal validasi masih nyangkut sehingga kemungkinan terbaca sbg belanja barang yg masih harus dibayar.</p><p><br></p><p>Mohon arahan dan solusinya bapak ibu.<br></p><p></p>;<p>Selamat siang, saya Ela dari satker 690501. Mohon izin menanyakan terkait adanya akun 212112 (Belanja Barang yang Masih Harus Dibayar) pada neraca percobaan senilai Rp203jutaan, padahal transaksi tersebut sudah terbit SP2D dan sudah dicatat oleh bendahara, sudah dikeluarkan dari rekening bendahara, dan bendahara juga sudah menyampaikan LPJ . <br></p><p><br></p><p>Sya mencari info ke tim pengelola anggaran, mereka bilang sepertinya itu transaksi nyangkut, jd itu adalah SPM LS perjadin.Ketika proses validasi SPP lalu gagal validasi. Ketika SPPnya dihapus pagunya tidak kembali,  hingga akhirnya mereka meminta agar pagunya dibalikin lg ke SITP, tp sepertinya itu SPP yg gagal validasi masih nyangkut sehingga kemungkinan terbaca sbg belanja barang yg masih harus dibayar.</p><p><br></p><p>Mohon arahan dan solusinya bapak ibu.<br></p><p></p>;;resolved
+1330824;20230104-3PWTJS;2023-01-04 12:20:09;resolved;Permohonan untuk Perbaikan Transaksi Bulan November 2022;L2 - SAKTI BENDAHARA;SAKTI - Bendahara;"<p><b>HAI-104111433 Permohonan untuk Perbaikan Transaksi Bulan November 2022</b><br />Unit Penanya: PUSAT PENDIDIKAN DAN PELATIHAN (651891)<br /><br /><b>Endang Ratnaningsih 04-01-2023 11:14:39</b><br />Yth. Bapak/ Ibu
+<br />
+<br />Satker kami sedang dalam proses penihilan GU namun terdapat kekeliruan pembebanan pada transaksi bulan november 2022, kami sudah mengubah transaksi tersebut namun tidak dapat disimpan karena ada peringatan ""Tanggal bayar yang dipilih harus bulan desember""
+<br />
+<br />Sehubungan dengan hal tersebut, kami mohon kiranya satker kami diijinkan untuk memperbaiki transaksi dan mengaktifkan fungsi Simpan pada bulan November tersebut .
+<br />
+<br />Atas bantuannya kami mengucapkan terima kasih<br /><br /> Lampiran: <a href=""https://spanint.kemenkeu.go.id/spanint/hai/downloader/index.php/downloads/Lampiran_tiket_REF_T0104111433_01863b4fd296ac02.jpg/Warning-tanggal-bayar.jpg"">Warning-tanggal-bayar.jpg</a><br /><br /><b>CSO 2 Jakarta 1 04-01-2023 12:20:06</b><br />Tiket Anda dieskalasi ke HAI DJPb<br /><br /></p>";<p>Yth. Bapak/Ibu Endang Ratnaningsih<br>Terima kasih telah menggunakan layanan Helpdesk Terintegrasi HAI DJPb.<br><br></p><p>Alhamduliillahh, semoga lancar dan sehat selalu.</p><p>Terima kasih.</p>;(014) Faried Zamachsari;resolved
+1330886;20230104-WNLGG9;2023-01-04 12:41:29;resolved;akumulasi penyusutan aset tetap lainnya yang bernilai positif;L2 - SAKTI Laporan;SAKTI - Pelaporan;<p>Selamat siang bagaiman penyelesaian akumulasi penyusutan di neraca yang bernilai positif (+)</p><p>   </p><p><br></p>;"<p>Yth. Bapak/Ibu erly<br>Terima kasih telah menggunakan layanan Helpdesk Terintegrasi HAI DJPb.<br><br>Laporan berkenaan agar dicetak dan dicek ulang<br></p><p><br>Demikian
+ informasi ini kami sampaikan semoga dapat membantu. Apabila jawaban 
+kami belum memenuhi maksud pertanyaan, Bapak/Ibu disilakan untuk 
+menyampaikan pertanyaan lanjutan. Kemudian
+ sebagai bahan evaluasi atas kualitas layanan kami, mohon perkenan 
+Bapak/Ibu untuk dapat memberikan <b><i>feedback </i></b>atas penyampaian jawaban kami.
+ Terima kasih.</p><br><br>";(665) M Priandi;resolved
+1330917;20230104-QR3K26;2023-01-04 12:56:03;resolved;Terdapat Selisih antara realisasi Laporan Fa Detail Basis Kas (SP2D) dengan Omspan;L2 - SAKTI KOMITMEN;SAKTI - Komitmen;<p>Selamat siang bapak/ibu, izin kami satker 431221 mohon untuk dilakukakan <b>Normalisasi </b>antara data sakti dengan Omspan dikarenakan terdapat perbedaan realisasi di SAKTI pada Laporan Fa Detail Basis KAs (SP2D) dengan Omspan. Hal tersebut dikarenakan  terdapat perbedaan uang sejumlah 124.800.000 pada akun belanja sewa di Sakti belum terealisasikan sedangkan dalam omspan sudah terbit SP2D. Mohon Bantuan dan Petunjuknya </p>;<p>Yth. Bapak/Ibu Ratu Fatma Sawitri<br>Terima kasih telah menggunakan layanan Helpdesk Terintegrasi HAI DJPb.<br></p><p>Sebelumnya kami mohon maaf atas kendala dan lamanya kami dalam membalas email Saudara.</p><p>Apabila kendala masih terjadi, mohon dapat membalas kembali email ini dengan dilampiri data dukung permasalahan terkini.</p><br><p>Demikian kami sampaikan, mohon maaf atas ketidaknyamananya. Terima kasih.</p><br>;(014) Faried Zamachsari;resolved
+1330957;20230104-4Y6D7E;2023-01-04 13:11:26;resolved;"mohon penjelasan pengisian cara pengisian ""perolehan lainnya KDP""";L2 - SAKTI Laporan;SAKTI - Pelaporan;"<p>mohon penjelasan cara pengisian ""perolehan lainnya KDP""</p><p>perubahan dari pagar permanen menjadi KDP</p>";"<div>mohon konfirmasinya, karena hingga sekarang saya belum memperoleh penjelasan tentang cara perubahan gedung permanen menjadi kdp</div>
+    <br />
+    <div>
+      <div>On Rab, 4 Jan 2023 13.23 hai DJPb &lt;<a href=""mailto:hai.djpb@kemenkeu.go.id"">hai.djpb@kemenkeu.go.id</a>&gt; wrote:<br /></div>
+      <blockquote><u></u>
+
+
+
+
+<div style=""font-family:Calibri, Helvetica, Arial, sans-serif;line-height:125%;color:#242424;font-size:14px;"">
+<div style=""font-family:Calibri, Helvetica, Arial, sans-serif;line-height:125%;color:#242424;font-size:14px;"">
+
+
+&nbsp; 
+<div>
+<p class=""MsoNormal"" style=""margin:0;""><span style=""font-family:Tahoma, 'sans-serif';color:#1f497d;"">&nbsp;</span></p>
+<p class=""MsoNormal"" style=""margin:0;""><span style=""font-family:Tahoma, 'sans-serif';color:#1f497d;"">&nbsp;</span></p>
+<div>
+<p class=""MsoNormal"" style=""margin:0;"">&nbsp;</p>
+</div>
+<p class=""MsoNormal"" style=""margin:0;""><span style=""font-family:Tahoma, 'sans-serif';color:#1f497d;"">&nbsp;</span></p>
+<p class=""MsoNormal"" style=""margin:0;""><span style=""font-size:12pt;font-family:'Times New Roman', serif;"">&nbsp;</span></p>
+<div class=""MsoNormal"" style=""margin:0;""><span style=""font-size:12pt;font-family:'Times New Roman', serif;"">
+
+</span></div>
+<p class=""MsoNormal"" style=""margin:0;""><span style=""font-size:7.5pt;font-family:Verdana, 'sans-serif';color:#808080;"">PENTING
+</span></p>
+<p class=""MsoNormal"" style=""margin:0;"" align=""justify""><span style=""font-size:7.5pt;font-family:Verdana, 'sans-serif';color:#808080;"">""Sesuai dengan Keputusan Menteri Keuangan Nomor 942/KMK.01/2019 tentang Pengelolaan Keamanan Informasi di Lingkungan Kementerian
+ Keuangan bahwa Unit TIK eselon I yang memiliki sistem nama domain masing-masing menambahkan pernyataan disclaimer pada setiap Surat Elektronik untuk mencegah tuntutan hukum atas penggunaan Surat Elektronik , maka email ini (termasuk seluruh lampirannya bila
+ ada) hanya ditujukan kepada penerima sebagaimana dimaksud pada tujuan email ini. Email ini dapat berisi informasi atau hal-hal yang secara hukum bersifat rahasia. Jika terdapat kesalahan pengiriman (Anda bukan penerima yang dituju), maka Anda tidak diperkenankan
+ untuk memanfaatkan, menyebarkan, mendistribusikan, atau menggandakan email ini beserta seluruh lampirannya. Mohon kerjasamanya untuk segera menghubungi Pusintek di alamat email yang tercantum di atas serta menghapus e-mail ini beserta seluruh lampirannya.
+ Semua pendapat yang ada dalam e-mail ini merupakan pendapat pribadi dari pengirim yang bersangkutan dan tidak serta merta mencerminkan pandangan Kementerian Keuangan"".</span></p>
+</div>
+</div>
+
+</div></blockquote>
+    </div>";(069) Benitriadi Meidy Moniung;resolved
+1331007;20230104-L686ML;2023-01-04 13:25:26;resolved;Tidak Bisa Validasi SPP 512 (SP2HL);L2 - SAKTI Laksana;SAKTI - Pembayaran;"<p>selamat siang,<br />
+</p>
+<p>menindaklanjuti no tiket&nbsp;20221229-H4HBSD, berikut saya sampaikan SS terbaru atas gagal/error validasi SPP 512 (SP2HL) dengan notif '<span style=""font-family:Calibri, Arial, Helvetica, sans-serif;font-size:16px;background-color:rgb(255,255,255);"">Maaf
+ proses simpan tidak berhasil - Fault occurred while processing</span>'.</p>
+<div style=""font-family:Calibri, Arial, Helvetica, sans-serif;font-size:16px;background-color:rgb(255,255,255);"">
+<br />
+</div>
+<div style=""font-family:Calibri, Arial, Helvetica, sans-serif;font-size:16px;background-color:rgb(255,255,255);"">
+Mohon bantuan atas kendala tersebut. terima kasih<br />
+<br />
+?<i style=""font-size:12.8px;font-family:arial, sans-serif;""><font color=""#000080"">""Bekerja dengan hati, melayani tanpa korupsi""</font></i></div>
+<div>
+<div style=""font-family:Calibri, Arial, Helvetica, sans-serif;"">
+<div style=""color:rgb(136,136,136);font-family:arial, sans-serif;font-size:12.8px;background-color:rgb(255,255,255);"">
+<span style=""font-size:12.8px;""><i>---------------------------------------------------------------</i></span></div>
+<div style=""font-family:arial, sans-serif;font-size:12.8px;background-color:rgb(255,255,255);"">
+<span style=""font-size:12.8px;""><i><font color=""#000080""><b><br />
+</b></font></i></span></div>
+<div style=""font-family:arial, sans-serif;font-size:12.8px;background-color:rgb(255,255,255);"">
+<span style=""font-size:12.8px;""><b><font color=""#000080"">KPPN Khusus Pinjaman dan Hibah</font></b></span>
+<div style=""font-size:12.8px;""><i><b><font color=""#0000ff"">Special State Treasury Office of Loan and Grant</font></b></i></div>
+<div style=""font-size:12.8px;""><font color=""#333333"">Direktorat Jenderal Perbendaharaan</font></div>
+<div style=""font-size:12.8px;""><font color=""#333333"">Kementerian Keuangan</font></div>
+<div style=""color:rgb(136,136,136);font-size:12.8px;""><a href=""https://maps.google.com/?q=Jl.+Ir.+H.+Juanda+Nomor+19+Jakarta+Pusat+10120&amp;entry=gmail&amp;source=g"" style=""color:rgb(17,85,204);"">Jl. Ir. H. Juanda Nomor 19</a></div>
+<div style=""color:rgb(136,136,136);font-size:12.8px;""><a href=""https://maps.google.com/?q=Jl.+Ir.+H.+Juanda+Nomor+19+Jakarta+Pusat+10120&amp;entry=gmail&amp;source=g"" style=""color:rgb(17,85,204);"">Jakarta Pusat 10120</a></div>
+<div style=""font-size:12.8px;""><font color=""#666699"">ph: (021) 3812282; fax: (021) 3842271;&nbsp;</font></div>
+<div style=""color:rgb(136,136,136);font-size:12.8px;""><br />
+</div>
+<div style=""font-size:12.8px;""><b><font color=""#000080"">Ikuti Sosial Media Kami:</font></b></div>
+<div style=""font-size:12.8px;""><font color=""#003300"">Whatapp&nbsp; </font><font color=""#808080"">&nbsp;:&nbsp;
+<a href=""http://bit.ly/mitra140"" style=""font-size:12.8px;"">
+http://bit.ly/mitra140</a>&nbsp;;&nbsp;</font></div>
+<div style=""font-size:12.8px;""><font color=""#800080"">Instagram&nbsp;</font><font color=""#808080""> :&nbsp;&nbsp;</font><font color=""#800080"">kppnkph&nbsp;&nbsp;</font></div>
+<div style=""font-size:12.8px;""><font color=""#0000ff"">Facebook&nbsp;&nbsp;</font><font color=""#808080"">:</font><font color=""#0000ff"">&nbsp; KPPN KPH&nbsp;</font></div>
+<div style=""font-size:12.8px;""><font color=""#00ccff"">Twitter&nbsp; &nbsp; &nbsp; &nbsp;</font><font color=""#808080"">:&nbsp;&nbsp;</font><font color=""#00ffff"">kppn_kph</font></div>
+</div>
+</div>
+</div>
+
+<div>
+<p class=""MsoNormal"" style=""margin:0;""><span style=""font-family:Tahoma, 'sans-serif';color:#1F497D;"">&nbsp;</span></p>
+<p class=""MsoNormal"" style=""margin:0;""><span style=""font-family:Tahoma, 'sans-serif';color:#1F497D;"">&nbsp;</span></p>
+<div>
+<p class=""MsoNormal"" style=""margin:0;"">&nbsp;</p>
+</div>
+<p class=""MsoNormal"" style=""margin:0;""><span style=""font-family:Tahoma, 'sans-serif';color:#1F497D;"">&nbsp;</span></p>
+<p class=""MsoNormal"" style=""margin:0;""><span style=""font-size:12pt;font-family:'Times New Roman', serif;"">&nbsp;</span></p>
+<div class=""MsoNormal"" style=""margin:0;""><span style=""font-size:12pt;font-family:'Times New Roman', serif;"">
+
+</span></div>
+<p class=""MsoNormal"" style=""margin:0;""><span style=""font-size:7.5pt;font-family:Verdana, 'sans-serif';color:#808080;"">PENTING
+</span></p>
+<p class=""MsoNormal"" style=""margin:0;"" align=""justify""><span style=""font-size:7.5pt;font-family:Verdana, 'sans-serif';color:#808080;"">""Sesuai dengan Keputusan Menteri Keuangan Nomor 942/KMK.01/2019 tentang Pengelolaan Keamanan Informasi di Lingkungan Kementerian
+ Keuangan bahwa Unit TIK eselon I yang memiliki sistem nama domain masing-masing menambahkan pernyataan disclaimer pada setiap Surat Elektronik untuk mencegah tuntutan hukum atas penggunaan Surat Elektronik , maka email ini (termasuk seluruh lampirannya bila
+ ada) hanya ditujukan kepada penerima sebagaimana dimaksud pada tujuan email ini. Email ini dapat berisi informasi atau hal-hal yang secara hukum bersifat rahasia. Jika terdapat kesalahan pengiriman (Anda bukan penerima yang dituju), maka Anda tidak diperkenankan
+ untuk memanfaatkan, menyebarkan, mendistribusikan, atau menggandakan email ini beserta seluruh lampirannya. Mohon kerjasamanya untuk segera menghubungi Pusintek di alamat email yang tercantum di atas serta menghapus e-mail ini beserta seluruh lampirannya.
+ Semua pendapat yang ada dalam e-mail ini merupakan pendapat pribadi dari pengirim yang bersangkutan dan tidak serta merta mencerminkan pandangan Kementerian Keuangan"".</span></p>
+</div>";"<p>Yth. Bapak/Ibu KPPN KPH<br>Terima kasih telah menggunakan layanan Helpdesk Terintegrasi HAI DJPb.<br><br>Mohon maaf sebelumnya, info dari Tim Pengembang aplikasi SAKTI silahkan dicek/dicoba kembali, mohon maaf atas ketidaknyamanannya</p><p><br></p><p>Demikian
+ informasi ini kami sampaikan semoga dapat membantu. Apabila jawaban 
+kami belum memenuhi maksud pertanyaan, Bapak/Ibu disilakan untuk 
+menyampaikan pertanyaan lanjutan. Kemudian
+ sebagai bahan evaluasi atas kualitas layanan kami, mohon perkenan 
+Bapak/Ibu untuk dapat memberikan <b><i>feedback </i></b>atas penyampaian jawaban kami.
+ Terima kasih.</p>";(039) Rio Hermawanto;resolved
+1331020;20230104-901OQY;2023-01-04 13:29:42;resolved;Terdapat Perbedaan Akun, Nilai Span dan Sakti;L2 - SAKTI Laksana;SAKTI - Pembayaran;<p>Terdapat Perbedaan Akun, Nilai Span dan Sakti.</p><p>Sedangkan Kami lihat BAST,SPM  dan Omspan sdah cocok yang selisih di Monsakti<br></p>;"<p>Yth. Bapak/Ibu Puspalad 344516<br>Terima kasih telah menggunakan layanan Helpdesk Terintegrasi HAI DJPb.<br><br>Mohon disebutkan nomor SPM yang salah pembebanan akun<br></p><p><br>Demikian
+ informasi ini kami sampaikan semoga dapat membantu. Apabila jawaban 
+kami belum memenuhi maksud pertanyaan, Bapak/Ibu disilakan untuk 
+menyampaikan pertanyaan lanjutan. Kemudian
+ sebagai bahan evaluasi atas kualitas layanan kami, mohon perkenan 
+Bapak/Ibu untuk dapat memberikan <b><i>feedback </i></b>atas penyampaian jawaban kami.
+ Terima kasih.</p>";(014) Faried Zamachsari;resolved
+1331140;20230104-AS0F6E;2023-01-04 14:08:20;resolved;Perbaikan Saldo Awal dan Transaksi Di aplikasi Sakti Bendahara Penerimaan;L2 - SAKTI BENDAHARA;SAKTI - Bendahara;<p>Selamat siang,</p><p>Mohon prtunjuk setelah melakukan perekaman dari Bulan Januari sd Desember 2022, untuk modul bendahara penerimaan.</p><p>Kami belum memasukan Perekaman Dana Pihak Ke Tiga (dari rek RPL), </p><p>YAng selama ini diinput hanya dari Rekening Bendahara Penerimaan Saja (Bpn)</p><p><br></p><p>Kami sudah melakukan perbaikan dan manginput , saldo awal dan transaksi2 berikutnya sesuai petunjuk teknis aplikasi) dan sudah tercatat sebagai saldo awal.</p><p>dan petunjuk KPPN agar dilakukan upload ulang dari bulan jan sd des 22.</p><p><br></p><p>Namun pada saat mengupload ulang di sprint untuk bulan Januari 2022,tertolak  terjadi selisih buku kas umum, buku kas, buku dpk, di sisi kiri sprin 0 di sisi kanan terisi sesuai saldo awal. </p><p><br></p><p>Mohon bantuan untuk kendala penolakan lpj. apakah dikarenakan karna sudah closed period, apabila demikan mohon dibuka kembali terkait perbaika transakasi tsb</p><p><br></p>;<p>Yth. Bapak/Ibu Ranti Afriani<br>Terima kasih telah menggunakan layanan Helpdesk Terintegrasi HAI DJPb.<br><br></p><p>Sebelumnya kami mohon maaf atas kendala yang terjadi.</p><p>Atas pertanyaan Saudara, apakah sampai dengan saat ini kendala tersebut masih terjadi?</p><p>Apabila kendala masih terjadi, mohon dapat membalas kembali email ini dengan dilampiri data dukung permasalahan terkini.</p><p><br></p><p>Demikian kami sampaikan, terima kasih.</p>;(014) Faried Zamachsari;resolved
+1331201;20230104-AJMQ4B;2023-01-04 14:22:46;resolved;Permohonan pemulihan FA;L2 - SAKTI KOMITMEN;SAKTI - Komitmen;<p>Kepada dit SITP disampaikan pemulihan FA berkaitan dengan Nomor BAST yang akan dilakukan penghapusan , kami kirimkan format excel yang akan dilakukan penghapusan dan file screenshoot data di modul komitmen.</p>;"<p>Yth. Bapak/Ibu AJIS KARYADI<br>Terima kasih telah menggunakan layanan Helpdesk Terintegrasi HAI DJPb.<br><br></p><p>Mohon maaf atas ketidaknyamananya, terkait hal ini dapat kami informasikan :</p><p><br></p><p>1. Berdasarkan pengawasan kami, atas BAST-BAST yang dimaksud tidak terikat pada dua SPP yang berbeda;<br></p><p><br></p><p></p><p>525129/14/REN/02/2022 - Nomor SPP 00225T</p><p>525129/REN/012A/II/2022 - Nomor SPP 00122T</p><p>525129/REN/012B/II/2022 - Nomor SPP 00100T</p><p>BAST/15/I/2022 - Nomor SPP 00095T</p><p><br></p><p>2. Jika satker mengindikasikan nomor BAST tersebut digunakan pada beberapa SPP, dapat diinformasikan nomor SPP yang lain untuk membantu kami dalam menganalisa permasalahan ini.<br></p><p><br>Demikian
+ informasi ini kami sampaikan semoga dapat membantu. Apabila jawaban 
+kami belum memenuhi maksud pertanyaan, Bapak/Ibu disilakan untuk 
+menyampaikan pertanyaan lanjutan. Kemudian
+ sebagai bahan evaluasi atas kualitas layanan kami, mohon perkenan 
+Bapak/Ibu untuk dapat memberikan <b><i>feedback </i></b>atas penyampaian jawaban kami.
+ Terima kasih.</p>";(513) Rafly R Harahap;resolved
+1331223;20230104-9EP6RE;2023-01-04 14:27:15;resolved;SALDO_TDK_NORMAL_344317;L2 - SAKTI Laporan;SAKTI - Pelaporan;"<table border=""0"" cellspacing=""0"" cellpadding=""0"" width=""100%"" style=""border:0;display:table;width:100%;"" align=""left"">
+<tbody style=""display:block;"">
+<tr>
+<td valign=""middle"" width=""1"" bgcolor=""#A6A6A6"" style=""padding:7px 2px 7px 2px;background-color:#A6A6A6;"">
+</td>
+<td valign=""middle"" width=""100%"" bgcolor=""#EAEAEA"" style=""width:100%;background-color:#EAEAEA;padding:7px 5px 7px 15px;font-family:'wf_segoe-ui_normal', 'Segoe UI', 'Segoe WP', Tahoma, Arial, sans-serif;font-size:12px;font-weight:normal;color:#212121;"">
+<div>You don't often get email from pakumakodam@gmail.com. <a href=""https://aka.ms/LearnAboutSenderIdentification"">
+Learn why this is important</a></div>
+</td>
+<td valign=""middle"" align=""left"" width=""75"" bgcolor=""#EAEAEA"" style=""width:75px;background-color:#EAEAEA;padding:7px 5px 7px 5px;font-family:'wf_segoe-ui_normal', 'Segoe UI', 'Segoe WP', Tahoma, Arial, sans-serif;font-size:12px;font-weight:normal;color:#212121;"">
+</td>
+</tr>
+</tbody>
+</table>
+<div>
+<div>
+<div>Ijin Bapak/Ibu ada Permasalahan Baru Lagi di Satker Kami..</div>
+<div>ada Saldo Tidak Normal Atas&nbsp; belanja pegawai yang harus dibayar muncul.</div>
+<div>setelah kami Cek di daftar ada 2 daftar SPP yang telah tercatat&nbsp; dan terbit SP2D nya tapi terbaca SPP belum terbit SP2d dan 1 ( 00492T ) yang Tidak ada di Omspan dan Arsip SPP tetapi muncul di Daftar SPP belum catat SP2D.</div>
+<div>mohon Petunjuk dan Arahan Bapak/IBu untuk penyelsaian Permasalahan tersebut.<br />
+</div>
+</div>
+</div>";"<p>Yth. Bapak/Ibu bayu Sapta Riandi<br>Terima kasih telah menggunakan layanan Helpdesk Terintegrasi HAI DJPb.<br><br></p><p><br>Demikian
+ informasi ini kami sampaikan semoga dapat membantu. Apabila jawaban 
+kami belum memenuhi maksud pertanyaan, Bapak/Ibu disilakan untuk 
+menyampaikan pertanyaan lanjutan. Kemudian
+ sebagai bahan evaluasi atas kualitas layanan kami, mohon perkenan 
+Bapak/Ibu untuk dapat memberikan <b><i>feedback </i></b>atas penyampaian jawaban kami.
+ Terima kasih.</p><br><br>";(397) Yusup Setiawan;resolved
+1331294;20230104-FY8XTE;2023-01-04 14:41:44;resolved;Tampilan download LAPORAN FA 16 Segmen LEVEL ITEM tidak lengkap;L2 - SAKTI Laksana;SAKTI - Pembayaran;"<p><b>HAI-104104407 Tampilan download LAPORAN FA 16 Segmen LEVEL ITEM tidak lengkap</b><br />Unit Penanya: PUSLITBANG POLRI (642377)<br /><br /><b>642377 04-01-2023 10:44:08</b><br />Selamat pagi Bapak/Ibu... mohon ijin melaporkan download FA 16 segmen LEVEL ITEM kami tidak lengkap, dimana header yang berisi judul kegiatan tidak nampak. Hasil download ini sangat penting bagi kamu untuk di jadikan panduan dalam merekam SPBY, dikarenakan dikarenakan jumlah item kami sangat banyak hingga 168 halaman. 
+<br />Mohon bantuan Bapak/Ibu memperbaiki tampilan download FA 16 segmen kami pada LEVEL ITEM sehingga dapat di jadikan panduan untuk mempermudah perekaman SPYB. 
+<br />Terima kasih<br /><br /> Lampiran: <a href=""https://spanint.kemenkeu.go.id/spanint/hai/downloader/index.php/downloads/Lampiran_tiket_REF_T0104104407_08863b4f607e8044.pdf/Laporan-Fa-Detail-16-Segmen-Item-All-03012023-1-.pdf"">Laporan-Fa-Detail-16-Segmen-Item-All-03012023-1-.pdf</a><br /><br /><b>SSO 2 Jakarta 3 04-01-2023 14:41:40</b><br />Tiket Anda dieskalasi ke HAI DJPb<br /><br /></p>";"<p>Yth. Bapak/Ibu 642377<br>Terima kasih telah menggunakan layanan Helpdesk Terintegrasi HAI DJPb.<br><br>Header item disarankan masuk dalam sub komponen sehingga bisa masuk dalam laporan FA Detail, karena laporan FA Detail hanya menampilkan data 16 segmen coa<br></p><p><br>Demikian
+ informasi ini kami sampaikan semoga dapat membantu. Apabila jawaban 
+kami belum memenuhi maksud pertanyaan, Bapak/Ibu disilakan untuk 
+menyampaikan pertanyaan lanjutan. Kemudian
+ sebagai bahan evaluasi atas kualitas layanan kami, mohon perkenan 
+Bapak/Ibu untuk dapat memberikan <b><i>feedback </i></b>atas penyampaian jawaban kami.
+ Terima kasih.</p>";(014) Faried Zamachsari;resolved
+1331330;20230104-41AQS1;2023-01-04 14:48:39;resolved;Cara Koreksi MPHL-BJS yang sudah disahkan pada SAKTI;L2 - SAKTI Laporan;SAKTI - Pelaporan;"<div><span style=""font-family:Calibri, Arial, Helvetica, sans-serif;font-size:12pt;color:rgb(0,0,0);background-color:rgb(255,255,255);"">Yth. Bapak/Ibu Admin</span></div>
+<div><span style=""font-family:Calibri, Arial, Helvetica, sans-serif;font-size:12pt;color:rgb(0,0,0);background-color:rgb(255,255,255);""><br />
+</span></div>
+<div><span style=""font-family:Calibri, Arial, Helvetica, sans-serif;font-size:12pt;color:rgb(0,0,0);background-color:rgb(255,255,255);"">
+</span><p class=""MsoNormal"" style=""margin:0;; "" font-size:11pt="""">
+<span style=""font-size:12pt;font-family:inherit, serif;color:#242424;border:none 1pt;padding:0in;"">Sebelumnya kami
+ telah membuat tiket dengan nomor&nbsp;</span></p><p>&nbsp;</p>
+<p class=""MsoNormal"" style=""margin:0;; "" font-size:11pt="""">
+<b><span style=""font-size:11.5pt;font-family:'Segoe UI', 'sans-serif';border:none 1pt;padding:0in;"">20221104-3XTI06 dan subjek tiket: Cara Koreksi
+ MPHL-BJS Pada SAKTI&nbsp;</span></b></p><p>&nbsp;</p>
+<p class=""MsoNormal"" style=""margin:0;; "" font-size:11pt="""">
+<span style=""font-size:11.5pt;font-family:inherit, serif;color:#242424;border:none 1pt;padding:0in;"">Yang permasalahannya
+ adalah nilai pada MPHL-BJS Sakti berbeda dengan penerbitan register dari kanwil senilai 5 rupiah. Hal ini di sebabkan pada BAST nilai keseluruhan di bulatkan, namun saat penginputan BAST di sakti per barang dilakukan pembulatan per itemnya. Atas tiket yang
+ kami ajukan di atas mendapat solusi seperti ini :&nbsp;</span></p><p>&nbsp;</p>
+<p class=""MsoNormal"" style=""margin:0;; "" font-size:11pt="""">
+<span style=""font-size:10.5pt;font-family:inherit, serif;color:#242424;border:none 1pt;padding:0in;"">Silahkan
+ satker melakukan koreksi&nbsp;MPHL&nbsp;dengan tatacara :<br />
+1. Login modul pembayaran menu RUH SPP&nbsp;</span></p><p>&nbsp;</p>
+<p class=""MsoNormal"" style=""margin:0;; "" font-size:11pt="""">
+<span style=""font-size:10.5pt;font-family:inherit, serif;color:#242424;border:none 1pt;padding:0in;"">2. Pilih SPP
+ 515 - koreksi&nbsp;</span></p><p>&nbsp;</p>
+<p class=""MsoNormal"" style=""margin:0;; "" font-size:11pt="""">
+<span style=""font-size:10.5pt;font-family:inherit, serif;color:#242424;border:none 1pt;padding:0in;"">3. Pilih&nbsp;MPHL&nbsp;yang
+ akan dikoreksi&nbsp;</span></p><p>&nbsp;</p>
+<p class=""MsoNormal"" style=""margin:0;; "" font-size:11pt="""">
+<span style=""font-size:10.5pt;font-family:inherit, serif;color:#242424;border:none 1pt;padding:0in;"">4. Lakukan perubahan
+ nilai pengeluaran dan nilai potongan&nbsp;</span></p><p>&nbsp;</p>
+<p class=""MsoNormal"" style=""margin:0;; "" font-size:11pt="""">
+<span style=""font-size:10.5pt;font-family:inherit, serif;color:#242424;border:none 1pt;padding:0in;"">5. Proses ulang
+ sampai kirim KPPN&nbsp;</span></p><p>&nbsp;</p>
+<p class=""MsoNormal"" style=""margin:0;; "" font-size:11pt="""">
+</p><p>&nbsp;</p>
+<p class=""MsoNormal"" style=""margin:0;; "" font-size:11pt="""">
+<span style=""font-size:10.5pt;font-family:inherit, serif;color:#242424;border:none 1pt;padding:0in;"">Atas tiket di
+ atas, di mintakan agar dibuat tiket baru 2023 :</span></p><p>&nbsp;</p>
+<p class=""MsoNormal"" style=""margin:0;; "" font-size:11pt="""">
+</p><p>&nbsp;[attach:image:107144HWXKXMWKCT1071432474D2D5F:image.png]</p>
+<p class=""MsoNormal"" style=""margin:0;; "" font-size:11pt="""">
+</p><p>&nbsp;</p>
+<p class=""MsoNormal"" style=""margin:0;; "" font-size:11pt="""">
+</p><p>&nbsp;</p>
+<p class=""MsoNormal"" style=""margin:0;; "" font-size:11pt="""">
+</p><p>&nbsp;</p>
+<p class=""MsoNormal"" style=""margin:0;; "" font-size:11pt="""">
+</p><p>&nbsp;</p>
+<p class=""MsoNormal"" style=""margin:0;; "" font-size:11pt="""">
+<span style=""font-size:11.5pt;font-family:inherit, serif;color:#242424;border:none 1pt;padding:0in;"">Saat akan
+ melakukan sesuai arahan di tiket sebelumnya, satker tidak dapat melanjutkan sampai dengan point 4. Karena pada sakti saat di simpan tidak ada respon sebagaimana terlampit. Mohon petunjuk dan solusinya karena atas perbedaan nilai pada pengesahan hibah dan register
+ dari kanwil pihak dari DJPPR menanyakan dan meminta solusi. Terimakasih</span></p><p>&nbsp;</p>
+<p class=""MsoNormal"" style=""margin:0;; "" font-size:11pt="""">
+</p><p>&nbsp;</p></div>";"<p>Yth. Bapak/Ibu Muhamad Rizal Priyadi<br>Terima kasih telah menggunakan layanan Helpdesk Terintegrasi HAI DJPb.<br><br>Berarti kondisi sekarang baik di sakti maupun di span nilainya sama2 salah?<br></p><p><br>Demikian
+ informasi ini kami sampaikan semoga dapat membantu. Apabila jawaban 
+kami belum memenuhi maksud pertanyaan, Bapak/Ibu disilakan untuk 
+menyampaikan pertanyaan lanjutan. Kemudian
+ sebagai bahan evaluasi atas kualitas layanan kami, mohon perkenan 
+Bapak/Ibu untuk dapat memberikan <b><i>feedback </i></b>atas penyampaian jawaban kami.
+ Terima kasih.</p><br><br>";(665) M Priandi;resolved
+1331420;20230104-V5Z9GM;2023-01-04 15:10:00;resolved;Terdapat perbedaan saldo awal dalam lpj bendahara beserta adk;L2 - SAKTI BENDAHARA;SAKTI - Bendahara;<p>selamat siang,</p><p>saya bendahara kejaksaan negeri solok selatan kode satker 673648</p><p>saat rekap lpj bulan desember ada sisa pajak sebesar Rp 22.290.335 setelah konfirmasi ke pihak kppn solok ternyata terkait selisih di BP pajak dilakukan penghapusan di menu mencatat pungutan pajak sehingga di lpj sudah tidak ada lagi selisih.</p><p>setelah di upload lpj dan adm ke sprint, pihak kppn mengkonfirmasi bahwa berkurang saldo awal antara lpj dengan adk</p><p>mohon petunjuknya , terimakasih</p>;<p>Yth. Bapak/Ibu Nike Wulandari<br>Terima kasih telah menggunakan layanan Helpdesk Terintegrasi HAI DJPb.<br></p><p>Jika terdapat perubahan transaksi di bulan sebelum Desember, maka dapat mengakibatkan saldo awal bulan Desember berubah. Jika terdapat perubahan perekaman transaksi pada bulan sebelum Desember, maka pada bulan tersebut -misalkan Mei- perlu untuk mencetak dan mengirim kembali ADK LPJ pengeluaran bulan Mei agar data saldo awal di SPRINT berubah.</p><p>-  Lakukan cetak LPJ Mei kemudian unduh ADK LPJ. Agar nilai pemeriksaan fisik dan penjelasan selisih yang telah diinput tidak berubah, klik tombol cek periode setelah memilih tanggal.</p><p>-  Kirim ke SPRINT ADK LPJ Bulan Mei</p><p>-  Cetak LPJ bulan Desember kemudian unduh ADK LPJ Agar nilai pemeriksaan fisik dan penjelasan selisih yang telah diinput tidak berubah, klik tombol cek periode setelah memilih tanggal.</p><p>-  Kirim ke SPRINT ADK LPJ Bulan Desember</p><p><br>Demikian informasi ini kami sampaikan semoga dapat membantu. Apabila jawaban kami belum memenuhi maksud pertanyaan, Bapak/Ibu disilakan untuk menyampaikan pertanyaan lanjutan. Kemudian sebagai bahan evaluasi atas kualitas layanan kami, mohon perkenan Bapak/Ibu untuk dapat memberikan <b><i>feedback </i></b>atas penyampaian jawaban kami. Terima kasih.</p>;(014) Faried Zamachsari;resolved
+1331473;20230104-SKE1GV;2023-01-04 15:21:29;resolved;Kendala cetak karwas KKP pada SAKTI;L2 - SAKTI BENDAHARA;SAKTI - Bendahara;<p><br>[Live Chat]<br><span>Yth. Bapak/Ibu Elhit Prasetia</span></p><p></p><br><p>Terima kasih telah menggunakan layanan Helpdesk Terintegrasi HAI DJPb.<br>Berikut kami sampaikan Riwayat Percakapan via Live Chat.</p><br><p>User : Elhit Prasetia<br>Unit Kerja : <a>107-01-414583 KANTOR PENCARIAN DAN PERTOLONGAN YOGYAKARTA (BASARNAS)</a></p><br><p>Pertanyaan:</p><p></p><p></p><p>Ijin bertanya terkait Karwas KKP yang tidak bisa di cetak di aplikasi SAKTI 2022 <span>muncul kode eror</span></p><p></p><p></p><br>[attach:image:107148YDKKACZWXG107147984AB4FDA:upload.png];"<p>Yth. Bapak/Ibu Elhit Prasetia<br>Terima kasih telah menggunakan layanan Helpdesk Terintegrasi HAI DJPb.<br><br>Silahkan dicoba kembali, per hari ini untuk cetakan karwas UP KKP periode desember TA 2022 sudah dapat diunduh seperti pada screenshot terlampir<br></p><p><br>Demikian
+ informasi ini kami sampaikan semoga dapat membantu. Apabila jawaban 
+kami belum memenuhi maksud pertanyaan, Bapak/Ibu disilakan untuk 
+menyampaikan pertanyaan lanjutan. Kemudian
+ sebagai bahan evaluasi atas kualitas layanan kami, mohon perkenan 
+Bapak/Ibu untuk dapat memberikan <b><i>feedback </i></b>atas penyampaian jawaban kami.
+ Terima kasih.</p><br><br>";(054) Mila Karina;resolved
+1331577;20230104-DOM9VA;2023-01-04 15:51:52;resolved;Koreksi SPM Pecah Akun;L2 - SAKTI KOMITMEN;SAKTI - Komitmen;"<p>Selamat Sore</p><p><span style=""font-size:1.125rem;"">Kami dari Satker 432671 BPSDMP Kominfo Surabaya, terdapat pagu minus terkait pengadaan peralatan mesin , di smster I ada  beberpa barang yang harganya di bawah kapitalisasi sehingga kita mengajukan koreksi spm  pecah akun 532111 ke 521251 di KPPN Sidoarjo dan di tolak , dan disarankan menghapus SPM Tersebut, tetapi tidak  bisa di hapus muncul notifikasi seperti ini </span><span style=""font-size:1.125rem;""><b>""Saldo FA Akun 532111 tidak mencukupi""  </b></span></p>";<p>Yth. Bapak/Ibu Sarlan<br>Terima kasih telah menggunakan layanan Helpdesk Terintegrasi HAI DJPb.<br></p><p>Sebelumnya kami mohon maaf atas kendala dan lamanya kami dalam membalas email Saudara.</p><p>Apabila kendala masih terjadi, mohon dapat membalas kembali email ini dengan dilampiri data dukung permasalahan terkini.</p><br><p>Demikian kami sampaikan, mohon maaf atas ketidaknyamananya. Terima kasih.</p>;(014) Faried Zamachsari;resolved
+1331678;20230104-338QV2;2023-01-04 16:16:28;resolved;Rekon Mon Sakti masih Merah;L2 - SAKTI Laporan;SAKTI - Pelaporan;"Sore kak,&nbsp;<div>sy lisna dari BRPPUPP 403823</div><div>izin tanya kak, kenapa ya yg hibah ini rekon nya selalu merah? padahal hibah nya sudah selesai loh kak, terlampir hasil rekon dri monsakti mohon pencerahan nya kak karena kami harus rekon internal dengan es1 nya.</div><div><br /></div><div><br /></div><div>Terima kasih</div>";"<p>Yth. Bapak/Ibu Lisnawati<br>Terima kasih telah menggunakan layanan Helpdesk Terintegrasi HAI DJPb.<br><br></p><p>Siap kak, sehat selalu dan sukses LKnya</p><p><br>Demikian
+ informasi ini kami sampaikan semoga dapat membantu. Apabila jawaban 
+kami belum memenuhi maksud pertanyaan, Bapak/Ibu disilakan untuk 
+menyampaikan pertanyaan lanjutan. Kemudian
+ sebagai bahan evaluasi atas kualitas layanan kami, mohon perkenan 
+Bapak/Ibu untuk dapat memberikan <b><i>feedback </i></b>atas penyampaian jawaban kami.
+ Terima kasih.</p><br><br>";(022) Hafez Aditya;resolved
+1331708;20230104-8NHRKE;2023-01-04 16:24:45;resolved;ubah kwitansi dari tunai menjadi non tunai;L2 - SAKTI BENDAHARA;SAKTI - Bendahara;<p>saya bendahara satker 689114 BPS Kota Gunungsitoli..pada bulan Juli 2022 saya lupa membukukan tarik tunai sebesar 14jt rupiah sehingga membuat kas tunai saya minus hingga desember 2022 dan pada saya rekon LPJ bendahara dengan KPPN 007 Gunungsitoli per januari 2023 baru kelihatan dan setelah saya coba ubah sudah tidak bisa di ubah lagi kecuali pada bulan Desember tahun 2022..mohon petunjuk dan bantuan untuk permasalahan kami ini..terimakasih...</p>;"<p>Yth. Bapak/Ibu lamhot pardamean banurea<br>Terima kasih telah menggunakan layanan Helpdesk Terintegrasi HAI DJPb.<br>Mohon maaf atas ketidaknyamanannya dan waktu yang diperlukan untuk merespon tiket Bapak/Ibu;</p><p>Atas kendala tersebut, Bapak/Ibu dapat melakukan perekaman penarikan dari bank pada tanggal kuitansi terkait sehingga saldo kas tunai tidak minus;</p><p>Perekaman penarikan dimaksud  dapat dilakukan pada menu Bendahara --&gt; Pemindahan Kas --&gt; Pemindahan Kas Tunai Bendahara Pengeluaran --&gt; pilih jenis Penarikan Uang dari Bank;<br></p><p><br>Demikian informasi ini kami sampaikan semoga dapat membantu. Terima kasih.</p><br>";(014) Faried Zamachsari;resolved
